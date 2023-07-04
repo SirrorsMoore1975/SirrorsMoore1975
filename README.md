@@ -1,6 +1,6 @@
 ### Introduction
 
-<div class="my-header" style="background-color: #ccffee; padding: 20px; text-align: center">
+<div align="center" style="background-color: #f2f2f2; padding: 20px;">
 👋Hello and Welcome to my github👋  <br>
 I am Chadwick. I'm a Software Engineer. Like playing video game  <br>
 Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a>  <br>
