@@ -1,10 +1,9 @@
 ### Introduction
-<div id="header" >
-<div>👋Hello and Welcome to my github👋</div>
+<div id="header" color="#ccffee" >
+<div align="cneter">👋Hello and Welcome to my github👋</div>
 <div align="center">I am Chadwick. I'm a Software Engineer. Like playing video game</div>
-<div>Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a></div>
-<div align="center">Chadwick AU</div>
-<div align="center">Software Engineer</div>
+<div align="center">Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a></div>
+
 </div>
 
 
