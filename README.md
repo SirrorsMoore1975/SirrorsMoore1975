@@ -1,9 +1,9 @@
 ### Introduction
 
 <div class="my-header" style="background-color: #ccffee; padding: 20px; text-align: center">
-👋Hello and Welcome to my github👋  
-I am Chadwick. I'm a Software Engineer. Like playing video game  
-Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a>  
+👋Hello and Welcome to my github👋  <br>
+I am Chadwick. I'm a Software Engineer. Like playing video game  <br>
+Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a>  <br>
 </div>
 
 ### Skill
