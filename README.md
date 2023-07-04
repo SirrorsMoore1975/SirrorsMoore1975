@@ -7,7 +7,15 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 </div>
 
 ### Skill
-<div class="skills"></div>
+<div>
+<h3>Tech skils</h3>
+<u>strong</u>
+<strong>Javascript, Node.js, React.js, Git, HTML, CSS, Express.js</strong>
+<u>Experience</u>
+<strong>Python, Rust, Typescript, Knex.js, postgresql</strong>
+<h3><u>Tools</u></h3>
+<strong>figma.com, app.kiagrams.net, dbdiagram.io, VScode</strong>
+</div>
 
 
 
