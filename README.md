@@ -27,9 +27,10 @@
 ### My Bio
 <div id="bio01">My Haiku:
 
-<div>ゆき　よる　だれ　み　くつ　ひ</div>
-<div>雪の夜　誰をも見ない　靴の冷え</div>
-<div>yukinoyoru darewomominai kutsunohie</div>
+<b>
+<ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby><ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない<ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
+</b>
+<i>yukinoyoru darewomominai kutsunohie</i>
 
 
 </div>
