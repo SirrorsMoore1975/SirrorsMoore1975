@@ -1,9 +1,10 @@
+### Introduction
 <div id="header" >
 <div align="center">Hi there! I am Chad</div>
 <div align="center">I'm a Software Engineer</div>
 <div>Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a></div>
-<h2 align="center">Chadwick AU</h2>
-<h1 align="center">Software Engineer</h1>
+<div align="center">Chadwick AU</div>
+<div align="center">Software Engineer</div>
 </div>
 
 
