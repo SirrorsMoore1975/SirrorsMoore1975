@@ -1,12 +1,13 @@
 ### Introduction
-<div id="header" bg-color="#ccffee" >
+<div id="header" background-color="#ccffee" >
 <div align="center">👋Hello and Welcome to my github👋</div>
 <div align="center">I am Chadwick. I'm a Software Engineer. Like playing video game</div>
 <div align="center">Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a></div>
 
 </div>
 
-
+### Skill
+<div id="skills"></div>
 
 
 
