@@ -1,7 +1,7 @@
 ### Introduction
 <div id="header" >
-<div align="center">Hi there! I am Chad</div>
-<div align="center">I'm a Software Engineer</div>
+<div>👋Hello and Welcome to my github👋</div>
+<div align="center">I am Chadwick. I'm a Software Engineer. Like playing video game</div>
 <div>Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a></div>
 <div align="center">Chadwick AU</div>
 <div align="center">Software Engineer</div>
