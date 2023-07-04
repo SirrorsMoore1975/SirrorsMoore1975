@@ -1,10 +1,8 @@
-
-
-
-
-<div id="header" aligin="center">Chadwick AU</div>
+<div id="header" aligin="center">
+<div><a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a></div>
+<div>Chadwick AU</div>
 <div align>Software Engineer</div>
-
+</div>
 
 
 
