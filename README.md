@@ -18,12 +18,7 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 </div>
 
 
-
-
-
-
-
-<div id="Status">Status</div>
+### Status
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)  
 
