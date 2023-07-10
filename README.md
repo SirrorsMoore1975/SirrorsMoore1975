@@ -18,13 +18,6 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 </div>
 
 
-### Status
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)  
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green)  
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
 
 
 
@@ -38,6 +31,13 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 <br>
 <div>(bio:)The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute</div>  
 <br>
+### Status
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)  
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green)  
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
 <hr>
 <p>
 [^1]: Read case [online](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
