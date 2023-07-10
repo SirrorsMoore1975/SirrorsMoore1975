@@ -9,7 +9,7 @@ Tech skils:<br>
 strong: Javascript, NodeJS, ReactJS, Git, HTML, CSS, ExpressJS<br>
 Experience: Python, Rust, Typescript, KnexJS, postgresql<br>
 Tools:
-[figma.com](https://www.figma.com/), [app.diagrams.net](app.diagrams.net), [dbdiagram.io](dbdiagram.io), VScode
+[figma.com](https://www.figma.com/), [app.diagrams.net](https://app.diagrams.net), [dbdiagram.io](https://dbdiagram.io), VScode
 <br>
 
 ### Recent Project
@@ -49,6 +49,6 @@ Web app trades first or second hand computer parts from user, created 2 weeks & 
 
 <p>
 
-[^1]: Read case [online](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
+[^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
 
 </p>
