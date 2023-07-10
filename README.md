@@ -40,9 +40,10 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 </div>  
 <br>
 
-<div class="bio2">(bio:)The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute</div>  
+<div class="bio2">(bio:)The name `SirrorsMoore1975` came from the case name [Sirros v. Moore 1975] ^[1](#footnotes01)^, where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute</div>  
 
 <br>
 <hr>
-
-[^1]: Read case [online](https://swarb.co.uk/sirros-v-moore-ca-1974/)
+<p>
+<a name="footnotes01">1:</a> Read case [online](https://swarb.co.uk/sirros-v-moore-ca-1974/) <br>
+</p>
