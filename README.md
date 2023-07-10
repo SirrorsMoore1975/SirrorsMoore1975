@@ -29,7 +29,7 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 
 
 ### My Bio
-<div class="bio01">My Haiku:
+<div class="bio01">(bio:)My Haiku:
 
 <b>
 <ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
@@ -38,8 +38,8 @@ Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">con
 
 
 </div>  
+<br>
 
-
-<div class="bio2">The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1] where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute</div>  
+<div class="bio2">(bio:)The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute</div>  
 
 [^1]: Read case [online](https://swarb.co.uk/sirros-v-moore-ca-1974/)
