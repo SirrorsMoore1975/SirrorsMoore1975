@@ -1,26 +1,26 @@
 ### Introduction
 👋Hello and Welcome to my github👋  <br>
-I am <b>Chadwick</b>. I'm a <b>Software Engineer </b>just graduated from [Code Chrysalis](https://www.codechrysalis.io/). <br>
-I Love playing video games and recommended Titanfall2 with [Northstar](https://github.com/R2Northstar/Northstar) <br>
-Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job">contact me</a>  <br>
+I am <b>Chadwick</b>. I'm a <b>Software Engineer </b>just graduated from [Code Chrysalis](https://www.codechrysalis.io/){:target="_blank"}. <br>
+I Love playing video games and recommended Titanfall2 with [Northstar](https://github.com/R2Northstar/Northstar){:target="_blank"} <br>
+Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  <br>
 
 ### Skill
 Tech skils:<br>
 strong: Javascript, NodeJS, ReactJS, Git, HTML, CSS, ExpressJS<br>
 Experience: Python, Rust, Typescript, KnexJS, postgresql<br>
 Tools:
-[figma.com](https://www.figma.com/), [app.diagrams.net](https://app.diagrams.net), [dbdiagram.io](https://dbdiagram.io), VScode
+[figma.com](https://www.figma.com/){:target="_blank"}, [app.diagrams.net](https://app.diagrams.net){:target="_blank"}, [dbdiagram.io](https://dbdiagram.io){:target="_blank"}, VScode
 <br>
 
 ### Recent Project
-1. [Oriori](https://github.com/OriOri-CCP7/oriori)<br>
+1. [Oriori](https://github.com/OriOri-CCP7/oriori){:target="_blank"}<br>
 Web application tracking Japan seasonal and regional goods, created in a month.
 - Handled project in Github following Agile workflow approach. 
 - Prepared database table in postgresql to collect app’s data.
 - Built and designed Front-end using Typescript and ReactJS.
 - Build responsive backend end-points in Python Django to client request 
 
-2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)<br>
+2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade){:target="_blank"}<br>
 Web app trades first or second hand computer parts from user, created 2 weeks & wip
 - Provided user authentication via Firebase
 - Created Authenticating Context API & Protective Route in react-router-dom
@@ -39,16 +39,16 @@ Web app trades first or second hand computer parts from user, created 2 weeks & 
 <br>
 ### Status
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true){:target="_blank"}  
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green)  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green){:target="_blank"}  
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
+![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975){:target="_blank"}
 
 <hr>
 
 <p>
 
-[^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
+[^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/){:target="_blank"}<br>
 
 </p>
