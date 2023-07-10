@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jekyll-footnotes (1.0.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  jekyll-footnotes
+
+BUNDLED WITH
+   2.4.15
