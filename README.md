@@ -20,7 +20,7 @@ Web application tracking Japan seasonal and regional goods, created in a month.
 - Built and designed Front-end using Typescript and ReactJS.
 - Build responsive backend end-points in Python Django to client request 
 
-2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade){:target="_blank"}<br>
+2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)<br>
 Web app trades first or second hand computer parts from user, created 2 weeks & wip
 - Provided user authentication via Firebase
 - Created Authenticating Context API & Protective Route in react-router-dom
