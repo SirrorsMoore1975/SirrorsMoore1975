@@ -1,43 +1,43 @@
 # SirrorsMoore1975
 
 ### Introduction
-👋Hello and Welcome to my github👋  <br>
-I am <b>Chadwick</b>. I'm a <b>Software Engineer </b>just graduated from [Code Chrysalis](https://www.codechrysalis.io/). <br>
-I Love playing video games and recommended Titanfall2 with [Northstar](https://github.com/R2Northstar/Northstar) <br>
-Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  <br>
+👋 Hello and Welcome to my github 👋  <br>
+I am <b>Chadwick</b>. I'm a <b>Software Engineer </b><br>  
+👉 I Love playing video games and recommended Titanfall2 with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
+📧 Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a> 📧  <br>
 
 ### Skill
-Tech skils:<br>
-strong: Javascript, NodeJS, ReactJS, Git, HTML, CSS, ExpressJS<br>
-Experience: Python, Rust, Typescript, KnexJS, postgresql<br>
-Tools:
-[figma.com](https://www.figma.com/), [app.diagrams.net](https://app.diagrams.net), [dbdiagram.io](https://dbdiagram.io), VScode
-<br>
+| Categories | Name |
+| ---------- | ---- |
+| Languge | Javascript, NodeJS, HTML, CSS, Python, Rust, Typescript |  
+| Frontend | React, GitHub, Knex, PostgreSQL |  
+| Backend | Express |
+| Tools | [Figma](https://www.figma.com/)  |
 
-### Recent Project
-1. [Oriori](https://github.com/OriOri-CCP7/oriori)<br>
-Web application tracking Japan seasonal and regional goods, created in a month.
-- Handled project in Github following Agile workflow approach. 
-- Prepared database table in postgresql to collect app’s data.
-- Built and designed Front-end using Typescript and ReactJS.
-- Build responsive backend end-points in Python Django to client request 
+
+### Projects
+1. [Oriori](https://github.com/OriOri-CCP7/oriori)  
+Web application tracking Japan seasonal and regional goods
 
 2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)<br>
-Web app trades first or second hand computer parts from user, created 2 weeks & wip
-- Provided user authentication via Firebase
-- Created Authenticating Context API & Protective Route in react-router-dom
-- Built and designed Front-end using ReactJS
-- Access Back-end endpoints via ExpressJS and data in postgres with KnexJS
+Web app trades first or second hand computer parts from user, 
+
+3. [SM1975-PAA](https://github.com/SirrorsMoore1975/SM1975-PAA)<br>
+Improved version of [Phone-Review-App](https://github.com/Phone-Review-App/Phone-Review-App), Web app that allow users to give feedbacks and reviews to the Japan Phone Carriers.
+
+4. [SM1975-KKP](https://github.com/SirrorsMoore1975/SM1975-KKP)  
+Cloned from and an improved version of [KenKen-PA](https://github.com/Phone-Review-App/ccp7-legacy-week), Web app that users can create a virtual diary for the places they went in Japan
 
 ### My Bio
-(bio:)My Haiku:
+My Haiku:
 <b>
 <ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
 </b>
-<i> - yukinoyoru darewomominai kutsunohie</i>
+<i> ( yukinoyoru darewomominai kutsunohie )</i>
 <br>
 
-(bio:)The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute
+### Why username SirrorsMoore1975? 
+The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute
 <br>
 ### Status
 
