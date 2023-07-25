@@ -3,10 +3,13 @@
 ### Introduction
 👋 Hello and Welcome to my github 👋  <br>
 I am <b>Chadwick</b>. I'm a <b>Software Engineer </b><br>  
-👉 I Love playing video games and recommended Titanfall2 with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
+I am on my Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) installed<br>
+[Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) are my daily computing system I go to at work and at home<br>
+👉 I Love playing video games and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
+
 📧 Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a> 📧  <br>
 
-### Skill
+### Skills
 | Categories | Name |
 | ---------- | ---- |
 | Languge | Javascript, NodeJS, HTML, CSS, Python, Rust, Typescript |  
