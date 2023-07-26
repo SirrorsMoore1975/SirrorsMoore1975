@@ -44,7 +44,7 @@ My Haiku:
 - [x] No Apple
 - [ ] No Amazon
 - [ ] No Netflix
-- [ ] No Google
+- [ ] No Google<br>
 I wanted to work with people from FAANG, but not working for FAANG
 
 ### Why username SirrorsMoore1975? 
