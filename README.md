@@ -3,8 +3,8 @@
 ### Introduction
 👋 Hello and Welcome to my github 👋  <br>
 I am <b>Chadwick</b>. I'm a <b>Software Engineer </b><br>  
-I am on my Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) installed<br>
-[Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) are my daily computing system I go to at work and at home<br>
+For Phones, I recommended Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) installed for a more privacy, more security, more freedom experience<br>
+For Computer, I want to be in control instead of some big tech telling me what should I be using. I preferred [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) as I concern privacy, freedom on software, free expression and security. They are my number 1 daily computing system I go to at work and at home<br>
 👉 I Love playing video games and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
 
 📧 Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a> 📧  <br>
@@ -12,7 +12,7 @@ I am on my Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) install
 ### Skills
 | Categories | Name |
 | ---------- | ---- |
-| Languge | Javascript, NodeJS, HTML, CSS, Python, Rust, Typescript |  
+| Languages | Javascript, NodeJS, HTML, CSS, Python, Rust, Typescript |  
 | Frontend | React, GitHub, Knex, PostgreSQL |  
 | Backend | Express |
 | Tools | [Figma](https://www.figma.com/)  |
@@ -38,6 +38,14 @@ My Haiku:
 </b>
 <i> ( yukinoyoru darewomominai kutsunohie )</i>
 <br>
+
+### No FAANG
+- [x] No Facebook
+- [x] No Apple
+- [ ] No Amazon
+- [ ] No Netflix
+- [ ] No Google
+I wanted to work with people from FAANG, but not working for FAANG
 
 ### Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute
