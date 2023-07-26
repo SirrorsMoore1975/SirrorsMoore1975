@@ -3,11 +3,10 @@
 ### Introduction
 👋 Hello and Welcome to my github 👋  <br>
 I am <b>Chadwick</b>. I'm a <b>Software Engineer </b><br>  
-For Phones, I recommended Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) installed for a more privacy, more security, more freedom experience<br>
-For Computer, I want to be in control instead of some big tech telling me what should I be using. I preferred [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) as I concern privacy, freedom on software, free expression and security. They are my number 1 daily computing system I go to at work and at home<br>
+
 👉 I Love playing video games and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
 
-📧 Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a> 📧  <br>
+📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
 
 ### Skills
 | Categories | Name |
@@ -39,13 +38,14 @@ My Haiku:
 <i> ( yukinoyoru darewomominai kutsunohie )</i>
 <br>
 
-### No FAANG
+### No FAANG Challenge
 - [x] No Facebook
 - [x] No Apple
 - [ ] No Amazon
 - [ ] No Netflix
-- [ ] No Google<br>
-I wanted to work with people from FAANG, but not working for FAANG
+- [ ] No Google
+
+I wanted to work with people from the FAANG, but not working for the FAANG
 
 ### Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute
@@ -60,6 +60,8 @@ The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1],
 
 <hr>
 
+I recommended Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) installed for a more privacy, more security, more freedom experience<br>
+I preferred [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) as I concern privacy, freedom on software, free expression and security. They are my number 1 daily computing system I go to at work and at home<br>
 <p>
 
 [^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
