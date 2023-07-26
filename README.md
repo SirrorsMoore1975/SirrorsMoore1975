@@ -60,8 +60,9 @@ The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1],
 
 <hr>
 
-I recommended Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) installed for a more privacy, more security, more freedom experience<br>
-I preferred [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) as I concern privacy, freedom on software, free expression and security. They are my number 1 daily computing system I go to at work and at home<br>
+- Want a phone OS that concern privacy and security? Try out Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) for the experience<br>
+- Want to get back the control to your computer? Try out [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) . They are my number 1 daily computing system I go to at work and at home<br>
+- Use [LibreOffice](https://www.libreoffice.org/discover/libreoffice/) for free, security and private Documentation alternatives<br>
 <p>
 
 [^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
