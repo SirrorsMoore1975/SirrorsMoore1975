@@ -58,16 +58,18 @@ The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1],
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
 
-<hr>
+<hr />
+
 ### Tips  
 
-- Are you concern with your privacy and security on your phone? Try out Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) for the best experience you can have<br>
-- Wanted to get back the control to your computer? Try out [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) for a smooth shift from your traditional priorietary OS. <br>
-- Use [LibreOffice](https://www.libreoffice.org/discover/libreoffice/) for free, security and private Documentation alternatives. Support by buying the developer a coffee!<br>
+- Are you concern with your privacy and security on your phone? Try out Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) for the best experience you can have. You can also start from degooglizing your life as your first step if it is too huge a step to take.<br>
+- Wanted to get back the control to your computer? Try out [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) for a smooth transition from your traditional priorietary OS. <br>
+- Use [LibreOffice](https://www.libreoffice.org/discover/libreoffice/) for free, security and private Documentation alternatives. Support the developer by buying them a coffee!<br>
 - Have trouble installing postgreSQL on Linux ? Try out my tutorial at medium [here](https://medium.com/@chadwickau/how-to-install-postgres-on-linux-5c7e507e0b94). <br>
 - On Linux, did you know you can use [Krita](https://krita.org/) with Wacom drawing pad?  <br>
 
 <p>
+
 ### Preferences  
 [^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
 
