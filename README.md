@@ -59,12 +59,14 @@ The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1],
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
 
 <hr>
-
-- Want a phone OS that concern privacy and security? Try out Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) for the experience<br>
-- Want to get back the control to your computer? Try out [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) . They are my number 1 daily computing system I go to at work and at home<br>
+### Tips
+- Do you concern about your privacy and security on your phone? Try out Goggle Pixel with [GrapheneOS](https://grapheneos.org/#about) for the best experience<br>
+- Want to get back the control to your computer? Try out [Ubuntu](https://ubuntu.com/) and [Linux Mint](https://linuxmint.com/) for a smooth shift from your traditional priorietary OS. <br>
 - Use [LibreOffice](https://www.libreoffice.org/discover/libreoffice/) for free, security and private Documentation alternatives<br>
+- Have trouble installing postgreSQL on Linux ? Try out my tutorial at medium [here](https://medium.com/@chadwickau/how-to-install-postgres-on-linux-5c7e507e0b94).
+- On Linux, did you know you can use [Krita](https://krita.org/) with Wacom drawing pad? 
 <p>
-
+### Preferences  
 [^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
 
 </p>
