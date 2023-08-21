@@ -45,7 +45,23 @@ My Haiku:
 - [ ] No Netflix
 - [ ] No Google
 
-I wanted to work with people from the FAANG, but not working for the FAANG
+Disclaimer: <br>
+By posting the No FAANG changllenge attemp, I DID NOT meant that:-
+- I do not wanted to work with people coming from the FAANG, I wanted to work with those genius developers who might have been working in FAANG.
+- I do not wanted to use their products or technologies at all in any way, but freedom, secuirty and privacy should be anyone concern while using them.
+
+And by posting the No FAANG changllenge attemp, I just meant:-
+- Especially when privacy, freedom and security are in concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights.
+- I wanted anyone around, especially developers who might be using their tech to build their products, to grow awareness of, or to influence those to, users' protection on their freedom and privacy, and that, it should always be their utmost important piority to secure their user, and shall be upheld at all cost.
+- There are no such things as to<br>
+  - `sacrific freedom for security` or
+  - `I have nothing to hide (but have nothing to give either)`,<br>
+freedom and secuirty are not mutally exclusive.
+- Their tech are by no means a very convenience tools, but exposing your user to high risk of security, such as:-
+  - letting them to know where your user lives; or, 
+  - sending users email data for their better marketing tactics on their user; or, 
+  - a calandar or email apps that leaks info of your meeting or dates with someone;<br>
+are really too much and must be stopped. <br>
 
 ### Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendents, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute
