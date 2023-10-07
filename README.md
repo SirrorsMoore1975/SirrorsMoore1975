@@ -53,6 +53,7 @@ By posting the No FAANG changllenge attemp, I DID NOT meant that:-
 And by posting the No FAANG changllenge attemp, I just meant:-
 - Especially when privacy, freedom and security are in concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights.
 - I wanted anyone around, especially developers who might be using their tech to build their products, to grow awareness of, or to influence those to, users' protection on their freedom and privacy, and that, it should always be their utmost important piority to secure their user, and shall be upheld at all cost.
+- Users' data are not assests that are for politics, groups, organization, individual, companies or any entities imaginable to harvest and invested upon, for users' tendencies manipulating, or being weaponized to use for or against particular, or group of, user(s) or for any person/persons/groups benefits/disadvantages.
 - There are no such things as to<br>
   - `sacrific freedom for security` or
   - `I have nothing to hide (but have nothing to give either)`,<br>
