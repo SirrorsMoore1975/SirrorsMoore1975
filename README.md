@@ -39,13 +39,19 @@ My Haiku:
 <br>
 
 # Security Challenge
+No one will wish their user data are sold or having his/her private life open to others, not even for any security reason(s). I self challenge myself to provide free, secure, open software, and promise no privacy invasion shall be conduct upon user of the software I created.
+
 How far can we depart ourselves as a developer from the protection on invasion of privacy and security in today modern world? It is a difficult demand since:- 
 - it depends on the clients' need;
+- alternative tech are not propular, techs are available but not muture, or alternatives are none existence; 
 - the infrastructure of the tech your working company are relying upon;
-- the services the working company supplying to their client; and,
-- developer's tech preferences or habits.
+- the services the working company are supplying to their clients cannot be, or afford to, change (time, contract terms, instructions, etc); and,
+- developer's tech preferences or habits, they might not have the time, worries it would lower their abilities, have no interest or cannot provide efforts for a change 
+
+Open, free and secure might sound ideal for some, so this challenge, I wished those who still can resist or afford to do so, like people who are starting a business or those who are willing to change and still can change, except this as your challenge. By not helping or aiding on selling your user data to a third party with or without user consent is already a good start.
 
 ## What can we do? 
+
 Before going ahead with the client's demand, try to look for the tech alternatives that can be free from the invasion or use a less invasive technologies, :-
 
 The FAANG Companies
@@ -57,6 +63,8 @@ The FAANG Companies
 
 The Non-FAANG companies:
 - Microsoft 
+- Nvidia
+- Intel
 
 __Disclaimer:__ <br>
 By posting the security challenge attempt, I __DID NOT__ meant that:-
@@ -65,7 +73,7 @@ By posting the security challenge attempt, I __DID NOT__ meant that:-
 
 And by posting the security challenge attempt, I just meant:-
 - I wanted to work with those genius developers who might have been working in FAANG, just not working for the FAANG;
-- Especially when privacy, freedom and security are in concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights. 
+- Especially when privacy, freedom and security are concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights. 
 - I wanted anyone around, especially developers who might be using their tech to build their products, to grow awareness of, or to influence those to, users' protection on their freedom and privacy, and that, it should always be their utmost important priority to secure their user, and shall be upheld at all cost. 
 - Users' data are not assets that are for politics, groups, organization, individual, companies or any entities imaginable to harvest and invested upon, for users' tendencies manipulating, or being weaponized to use for or against particular, or group of, user(s) or for any person/persons/groups benefits/disadvantages.
 - There are no such things as to<br>
