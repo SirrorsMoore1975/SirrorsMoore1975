@@ -38,23 +38,32 @@ My Haiku:
 <i> ( yukinoyoru darewomominai kutsunohie )</i>
 <br>
 
-# No FAANG Challenge
+# Security Challenge
+How far can we depart ourselves as a developer from the protection on invasion of privacy and security in today modern world? It is a difficult demand since:- 
+- it depends on the clients' need;
+- the infrastructure of the tech your working company are relying upon;
+- the services the working company supplying to their client; and,
+- developer's tech preferences or habits.
+
+## What can we do? 
+Before going ahead with the client's demand, try to look for the tech alternatives that can be free from the invasion or use a less invasive technologies, :-
+
 The FAANG Companies
-- [x] No Facebook
-- [x] No Apple
-- [ ] No Amazon
-- [ ] No Netflix
-- [ ] No Google
+- Facebook
+- Apple
+- Amazon
+- Netflix
+- Google
 
 The Non-FAANG companies:
-- [ ] Microsoft 
+- Microsoft 
 
 __Disclaimer:__ <br>
-By posting the No FAANG challenge attempt, I __DID NOT__ meant that:-
-- I do not wanted to work with people coming from the FAANG, 
+By posting the security challenge attempt, I __DID NOT__ meant that:-
+- I do not wanted to work with people coming from those tech Companies, 
 - I do not wanted to use their products or technologies at all in any way, but freedom, security and privacy should be anyone concern while using them.
 
-And by posting the No FAANG challenge attempt, I just meant:-
+And by posting the security challenge attempt, I just meant:-
 - I wanted to work with those genius developers who might have been working in FAANG, just not working for the FAANG;
 - Especially when privacy, freedom and security are in concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights. 
 - I wanted anyone around, especially developers who might be using their tech to build their products, to grow awareness of, or to influence those to, users' protection on their freedom and privacy, and that, it should always be their utmost important priority to secure their user, and shall be upheld at all cost. 
