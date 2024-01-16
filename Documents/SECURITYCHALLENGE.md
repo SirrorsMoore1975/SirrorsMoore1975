@@ -62,6 +62,7 @@ I am determined that:-
 - I __WILL NOT__ become an accomplice of those companies to become the engine to invade my application users' privacy;
 - I __WILL__ respect my users rights and freedoms throught out and __WILL NOT__ sold out my users' data for any other usage but only sololy for the use of my application
 - It is my utmost priority to ensure my user security and shall be upheld in all cost
+- I have __NO RIGHTS__ to enforce my individual or community believes, political motives or morality onto any groups or individual user
 
 # Disclaimer
 By posting the security challenge attempt, I __DID NOT__ meant that:-
