@@ -6,7 +6,7 @@ Aside from those malicious hackers and/or attacking groups, over the decade, som
 See articles:- 
 
 - Medium: [A FAANG might bite into your privacy](https://medium.com/si-410-ethics-and-information-technology/a-faang-might-bite-into-your-privacy-dcd240defe1b) <br />
-<span style="font-size:small">Published by SI410: [Ethic and Information Technology](https://medium.com/si-410-ethics-and-information-technology)</span>
+<span style="font-size:small">Published by [SI410: Ethic and Information Technology](https://medium.com/si-410-ethics-and-information-technology)</span>
 
 - SWIRLED: [FAANG privacy policies](https://swirled.com/faang-privacy-policies/) <br />
 <span style="font-size:small">By Hilarey Wojtowicz</span>
@@ -21,14 +21,15 @@ I self challenge myself to provide free, secure, open software, and promise no p
 # A Challenge not for everyone
 How far can we depart ourselves as a developer from the protection on invasion of privacy and security in today modern world? It is difficult since:- 
 - it depends on the clients' need;
-- alternative tech are not propular, techs are available but not muture, or alternatives are none existence; 
+- alternative tech are not propular, techs are available but not mature, or alternatives are none existence; 
 - the infrastructure of the tech your working company are relying upon;
 - the services the working company are supplying to their clients cannot be, or afford to, change (time, contract terms, instructions, etc); and,
 - developer's tech preferences or habits, they might not have the time, worries it would lower their abilities, have no interest or cannot provide efforts for a change 
 
-Open, free and secure might sound ideal for some, so this challenge, I wished those who still can resist or afford to do so, like people who are starting a business or those who are willing to change and still can change, except this as your challenge. By not helping or aiding on selling your user data to a third party with or without user consent is already a good start.
+Open, free and secure might sound ideal for some, so this challenge, I wished those who still can resist or afford to do so, like people who are starting a business or those who are willing to change and still can change, accept this as your challenge. By not helping or not aiding on selling your user data to a third parties without user consent is already a good start.
 
 ## What can we do? 
+How many users are not aware that they are selling their user data without you telling them? 
 
 Before going ahead with the client's demand, try to look for the tech alternatives that can be free from the invasion or use a less invasive technologies, :-
 
