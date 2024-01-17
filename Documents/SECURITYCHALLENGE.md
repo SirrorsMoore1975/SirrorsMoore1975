@@ -11,24 +11,41 @@ See articles:-
 - SWIRLED: [FAANG privacy policies](https://swirled.com/faang-privacy-policies/) <br />
 <span style="font-size:small">By Hilarey Wojtowicz</span>
 
-As a developer, we are 
+The purpose of this article is to let developer who might be aware of, or value, security and privacy to pay more attention to what they are building for their users/clients.
+
+- It is always my pleasure to work with others who might be coming from the big tech companies industry, but I am discouraged in working at the big tech companies when the tech, product or software they are using has security, privacy or user rights and freedom are in concerns.
+
+- This article intention is to let anyone around, especially developers who might be using the big tech companies' tech to build their products, softwares or applications, to grow awareness of, or to influence those developers or others who build products, software or applications for their users to, users' protection on their user's freedom and privacy, and that, it should always be their utmost important priority to secure their user, and shall be upheld at all cost. 
 
 
+## What can we do? 
+To begin with, you needed to ask yourself a few questions:-
+- [x] Do you treasure freedom for user, user privacy, security, user rights, individual thoughts and values?
+- [x] Is your position (your jobs, titles, etc) and/or situation (fiancially, legally, etc) your currently in, or about to be in, allow you to make a different?
 
-
-
-I self challenge myself to provide free, secure, open software, and promise no privacy invasion shall be conduct upon user of the software I created.
-# A Challenge not for everyone
+### Fair Warning: It is a Challenge that is not for everyone
 How far can we depart ourselves as a developer from the protection on invasion of privacy and security in today modern world? It is difficult since:- 
 - it depends on the clients' need;
 - alternative tech are not propular, techs are available but not mature, or alternatives are none existence; 
-- the infrastructure of the tech your working company are relying upon;
+- the infrastructure of the tech your working company are relying upon, of which it does not allow you to depart from;
 - the services the working company are supplying to their clients cannot be, or afford to, change (time, contract terms, instructions, etc); and,
-- developer's tech preferences or habits, they might not have the time, worries it would lower their abilities, have no interest or cannot provide efforts for a change 
+- developer's tech preferences or habits, they might not have the time (or have the time to learn new alternatives), worries that the shift would lower their professional abilities, or have show no interests at all to learn alternative (or maybe he/she cannot provide further efforts for a change due to some reasonable reasons)
 
 Open, free and secure might sound ideal for some, so this challenge, I wished those who still can resist or afford to do so, like people who are starting a business or those who are willing to change and still can change, accept this as your challenge. By not helping or not aiding on selling your user data to a third parties without user consent is already a good start.
 
-## What can we do? 
+## Where can we start?
+
+Try asking yourself this questions:
+### Alternative software
+Is there alternative software or application that can achieve the same goal you are doing? 
+
+You will be supprise to learn there are alternative software that might be free and open sources and is maintained by a huge group of developers. 
+
+However, it is not always the case that there are available alternatives. If this become the case, consider maybe:-
+- build an alternative application replacing it yourself, if possible;
+- use the unfortunate software or application, for the moment, and wait until such alternative available and switch to it (you already has tried your best)
+
+### User awareness when using your software
 How many users are not aware that they are selling their user data without you telling them? 
 
 Before going ahead with the client's demand, try to look for the tech alternatives that can be free from the invasion or use a less invasive technologies, :-
@@ -45,6 +62,21 @@ The Non-FAANG companies:
 - Nvidia
 - Intel
 
+## Understand that...
+- Users' data are not assets that are for politics, groups, organization, individual, companies or any entities imaginable to harvest, invested, sold out or manipulate upon, for users' tendencies manipulating, or being weaponized to use for or against particular, or group(s) of, user or for any person(s)/group(s) at their benefits/disadvantages.
+- There are no such things as to<br>
+  - `sacrifice freedom for security` or
+  - `I have nothing to hide (but have nothing to give either)`,<br>
+freedom and security can be __BOTH__ obtained at the same time and __ARE NOT__ mutually exclusive to each other.
+- Their tech are by no means a very convenience tools, but exposing your user to high risk of security, such as:-
+  - letting them to know where your user(s) lives; or, 
+  - sending user(s) email data for their better marketing tactics on their user(s); or, 
+  - a calendar or email apps that leaks info of your meeting(s) or dates with someone; or
+  - w/o user consent: accessing device camera, reading folders and files, accessing device audio, tracking user locations, collecting/transferring user's device data to somewhere, etc; or
+  <br>
+  are really way too much and must be stopped. <br>
+  - You as a developer has:-
+    - No rights to control what kind of contents, moral or thoughts your user can or cannot have. 
 
 
 # Share this challenge
@@ -59,33 +91,14 @@ OR
 Then challenge yourself and share that:
 
 I am determined that:-
-- I __WILL NOT__ become an accomplice of those companies to become the engine to invade my application users' privacy;
-- I __WILL__ respect my users rights and freedoms throught out and __WILL NOT__ sold out my users' data for any other usage but only sololy for the use of my application
-- It is my utmost priority to ensure my user security and shall be upheld in all cost
-- I have __NO RIGHTS__ to enforce my individual or community believes, political motives or morality onto any groups or individual user
+- [x] I __WILL NOT__ become an accomplice of those companies to become the engine to invade my application users' privacy;
+- [x] I __WILL__ respect my users rights and freedoms throught out and __WILL NOT__ sold out my users' data for any other usage but only sololy for the use of my applications.
+- [x] It is my utmost priority to ensure my user security and shall be upheld at all cost
+- [x] I have __NO RIGHTS__ to enforce my individual or community believes, political motives or morality onto any groups or individual user.
+- [x] I promoise, on the best of my knowledge and skill, to provide secure and open software, and I promise no privacy invasion shall be conduct upon user of the software I created.
 
 # Disclaimer
-By posting the security challenge attempt, I __DID NOT__ meant that:-
-- I do not wanted to work with people coming from those tech Companies, 
-- I do not wanted to use their products or technologies at all in any way, but freedom, security and privacy should be anyone concern while using them.
 
-And by posting the security challenge attempt, I just meant:-
-- I wanted to work with those genius developers who might have been working in FAANG, just not working for the FAANG;
-- Especially when privacy, freedom and security are concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights. 
-- I wanted anyone around, especially developers who might be using their tech to build their products, to grow awareness of, or to influence those to, users' protection on their freedom and privacy, and that, it should always be their utmost important priority to secure their user, and shall be upheld at all cost. 
-- Users' data are not assets that are for politics, groups, organization, individual, companies or any entities imaginable to harvest and invested upon, for users' tendencies manipulating, or being weaponized to use for or against particular, or group of, user(s) or for any person/persons/groups benefits/disadvantages.
-- There are no such things as to<br>
-  - `sacrifice freedom for security` or
-  - `I have nothing to hide (but have nothing to give either)`,<br>
-  freedom and security are not mutually exclusive.
-- Their tech are by no means a very convenience tools, but exposing your user to high risk of security, such as:-
-  - letting them to know where your user(s) lives; or, 
-  - sending user(s) email data for their better marketing tactics on their user(s); or, 
-  - a calendar or email apps that leaks info of your meeting(s) or dates with someone; or
-  - w/o user consent: accessing device camera, reading folders and files, accessing device audio, tracking user locations, collecting/transferring user's device data to somewhere, etc; or
-  <br>
-  are really way too much and must be stopped. <br>
-  - You as a developer has:-
-    - No rights to control what kind of contents, moral or thoughts your user can or cannot have. 
+- The statement post in this environment are not considered to be some advices, legal advices, or any sort of requests or orders. I am not holding any legal responsibility for your losses on anyone in following them.
 
-If you are working in this kind of company, you really should consider what are you doing to yourself and to your user who are or will be using your applications.
+
