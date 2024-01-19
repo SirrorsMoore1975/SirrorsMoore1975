@@ -38,51 +38,9 @@ My Haiku:
 <i> ( yukinoyoru darewomominai kutsunohie )</i>
 <br>
 
-# Security Challenge
-How far can we depart ourselves as a developer from the protection on invasion of privacy and security in today modern world? It is a difficult demand since:- 
-- it depends on the clients' need;
-- the infrastructure of the tech your working company are relying upon;
-- the services the working company supplying to their client; and,
-- developer's tech preferences or habits.
+# A Security Challenge for you
+As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE.md) and see what you, as a developer, can do.
 
-## What can we do? 
-Before going ahead with the client's demand, try to look for the tech alternatives that can be free from the invasion or use a less invasive technologies, :-
-
-The FAANG Companies
-- Facebook
-- Apple
-- Amazon
-- Netflix
-- Google
-
-The Non-FAANG companies:
-- Microsoft 
-
-__Disclaimer:__ <br>
-By posting the security challenge attempt, I __DID NOT__ meant that:-
-- I do not wanted to work with people coming from those tech Companies, 
-- I do not wanted to use their products or technologies at all in any way, but freedom, security and privacy should be anyone concern while using them.
-
-And by posting the security challenge attempt, I just meant:-
-- I wanted to work with those genius developers who might have been working in FAANG, just not working for the FAANG;
-- Especially when privacy, freedom and security are in concern, I do not wanted to be part of them or assisting them in any way on providing user private data or information to FAANG or its associated third parties or government entities that they were clearly in breach of those rights. 
-- I wanted anyone around, especially developers who might be using their tech to build their products, to grow awareness of, or to influence those to, users' protection on their freedom and privacy, and that, it should always be their utmost important priority to secure their user, and shall be upheld at all cost. 
-- Users' data are not assets that are for politics, groups, organization, individual, companies or any entities imaginable to harvest and invested upon, for users' tendencies manipulating, or being weaponized to use for or against particular, or group of, user(s) or for any person/persons/groups benefits/disadvantages.
-- There are no such things as to<br>
-  - `sacrifice freedom for security` or
-  - `I have nothing to hide (but have nothing to give either)`,<br>
-  freedom and security are not mutually exclusive.
-- Their tech are by no means a very convenience tools, but exposing your user to high risk of security, such as:-
-  - letting them to know where your user(s) lives; or, 
-  - sending user(s) email data for their better marketing tactics on their user(s); or, 
-  - a calendar or email apps that leaks info of your meeting(s) or dates with someone; or
-  - w/o user consent: accessing device camera, reading folders and files, accessing device audio, tracking user locations, collecting/transferring user's device data to somewhere, etc; or
-  <br>
-  are really way too much and must be stopped. <br>
-  - You as a developer has:-
-    - No rights to control what kind of contents, moral or thoughts your user can or cannot have. 
-
-If you are working in this kind of company, you really should consider what are you doing to yourself and to your user who are or will be using your applications.
 
 # Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendants, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute. A good read for touching the topics on judges rights and what judges can do during trail.
