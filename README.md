@@ -41,6 +41,9 @@ My Haiku:
 # A Security Challenge for you
 As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE/README.md) and see what you, as a developer, can do.
 
+# Your Code Could Kill
+Coding might sound innocent, what could go wrong? I came across a case where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injury, even thought the driver has attempted pushing the break. A 911 system that ignore calls if the 911 hotline is being called for a number of time, which fatally caused a victim of a break in who seeks for police aid died. A drug website will always diagnose a forwarding possible patient to a particular website, ignoring the fact that whether the paitent medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
+
 
 # Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendants, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute. A good read for touching the topics on judges rights and what judges can do during trail.
@@ -66,6 +69,8 @@ The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1],
 <p>
 
 # Preferences  
+The case of BOOKOUT and SCHWARZ v. TOYOTA (2008), see at [vimeo](https://vimeo.com/108663584)
+
 [^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
 
 </p>
