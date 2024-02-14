@@ -39,7 +39,7 @@ My Haiku:
 <br>
 
 # A Security Challenge for you
-As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE.md) and see what you, as a developer, can do.
+As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE/README.md) and see what you, as a developer, can do.
 
 
 # Why username SirrorsMoore1975? 

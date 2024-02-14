@@ -1,7 +1,7 @@
 <div style="text-align:center;font-size:large">A Security Challenge for you
 </div>
 
-[Go Back](https://github.com/SirrorsMoore1975)
+[Go Back](../../README.md)
 
 # Introduction
 No one will wish their user data are sold to some unknown person(s) or an unknown third parties or entities for their own good, or having his/her private life widely open to all others, and not even for any security reason(s). 
