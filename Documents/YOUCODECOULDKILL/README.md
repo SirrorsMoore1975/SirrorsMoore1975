@@ -17,9 +17,11 @@ Read Article:-
 - [6 Reasons legacy systems are still in use](https://www.techtarget.com/searchcio/feature/6-reasons-legacy-systems-are-still-in-use) From [Tech Targert](https://www.techtarget.com/) Dated 2023.07.05
 
 # Where did the errors came from
-- __Human Factor__ : the programmer did not comprehend, ignored, ignorance to certain codes, or faulty of the programmer. 
+- __Human Factor__ : a fault that the programmer did not comprehend, ignored, in ignorance of, or the faulty of the programmer part. 
 
 - __Machine Factor__ : the language might be a legacy programming language, the scripts might have exceeded the original purposes or limits.
+
+- __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause, such as an Act of God, that which is unavoidable and nothing can be done to prevent it from happening
 
 We are human, we do not know everything, we make mistakes, but sometime this kind of negligence can also cause damages to us or others and even in the cause of human life.
 
