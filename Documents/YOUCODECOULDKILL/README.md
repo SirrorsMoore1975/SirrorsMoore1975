@@ -2,7 +2,7 @@
 
 [Go Back](../../README.md)
 
-Coding might sound innocent, what could go wrong?  
+Coding might sound innocent, what could go wrong? A mistake or error in the software or scripts might not have much consequences on the developer or the user. However, a mild one might cause damage$ (damage that come with lossing money). A worst one can cause not just bad reputations, damage$ or fines but injuries, imprisonment or even death.
 
 I came across a case, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
@@ -21,8 +21,9 @@ Read Article:-
 
 - __Machine Factor__ : the language might be a legacy programming language, the scripts might have exceeded the original purposes or limits.
 
-- __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause, such as an Act of God, that which is unavoidable and nothing can be done to prevent it from happening
+- __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
 
+# Can we avoid those errors
 We are human, we do not know everything, we make mistakes, but sometime this kind of negligence can also cause damages to us or others and even in the cause of human life.
 
 Back in the 90s, we have Y2K problem (now we are close to another UNIX timestamp limit)
