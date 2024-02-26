@@ -25,6 +25,11 @@ Read Article:-
 
 - __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
 
+# What can developer do ...
+- Check your code, check again, re-check again. 
+- Practice as much as you can. Challenge yourself
+- Accept feedback, good or bad one.
+
 # Can we avoid those errors
 We are human, we do not know everything, we make mistakes, but sometime this kind of negligence can also cause damages to us or others and even in the cause of human life.
 
