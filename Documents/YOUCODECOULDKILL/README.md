@@ -4,11 +4,11 @@
 
 Coding helped us to live better. What can go wrong?
 
-Coding might sound innocent, a mistake or error in the software or scripts might not have much consequences on the developer or the user. However, a mild one might cause damage$ (damage that come with lossing money). A worst one can cause not just bad reputations, damage$ or fines but injuries, imprisonment or even death.
+Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or code could inflict consequences on the developer and to the user. A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. Herecomes a mild one where the errors are enough to cause some damage$ to the company such as payment to some lawsuit. A worst one can cause not just lawsuit or bad reputations, damage$, but injuries, imprisonment or even death.
 
-I came across a case, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
+I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
-Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which has fatally caused a victim who tries to report a break in to the house seeking police aid resulted death. 
+Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
  
 A drug website will always diagnose a forwarding patient to a particular website which sell a particular medicine (for the benefit of the drug company who had hired the DevOp), ignoring the fact that whether the paitent medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
 
@@ -21,7 +21,7 @@ Read Article:-
 # Where did the errors came from
 - __Human Factor__ : a fault that the programmer did not comprehend, ignored, in ignorance of, or the faulty of the programmer part. 
 
-- __Machine Factor__ : the language might be a legacy programming language, the scripts might have exceeded the original purposes or limits.
+- __Machine Factor__ : this errors came from the design of the language, it might be because it is a legacy programming language, the scripts might have exceeded the original purposes or has reached its limitation or has went far beyond than it was enticipated
 
 - __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
 
