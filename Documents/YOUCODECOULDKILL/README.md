@@ -2,7 +2,9 @@
 
 [Go Back](../../README.md)
 
-Coding might sound innocent, what could go wrong? A mistake or error in the software or scripts might not have much consequences on the developer or the user. However, a mild one might cause damage$ (damage that come with lossing money). A worst one can cause not just bad reputations, damage$ or fines but injuries, imprisonment or even death.
+Coding helped us to live better. What can go wrong?
+
+Coding might sound innocent, a mistake or error in the software or scripts might not have much consequences on the developer or the user. However, a mild one might cause damage$ (damage that come with lossing money). A worst one can cause not just bad reputations, damage$ or fines but injuries, imprisonment or even death.
 
 I came across a case, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
