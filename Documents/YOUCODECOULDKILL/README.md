@@ -4,7 +4,7 @@
 
 Coding helped us to live better. What can go wrong?
 
-Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or code could inflict consequences on the developer and to the user. A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. Herecomes a mild one where the errors are enough to cause some damage$ to the company such as payment to some lawsuit. A worst one can cause not just lawsuit or bad reputations, damage$, but injuries, imprisonment or even death.
+Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or code could inflict consequences on the developer and to the user that no one wants. The error size matter, is it? True. A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. I am talking about some errors that does not just result in a lawsuit, some bad reputations or damage$ to your working company, but injuries, imprisonment or even death to its users or someone related with the user.
 
 I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
