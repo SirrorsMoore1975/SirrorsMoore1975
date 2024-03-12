@@ -9,11 +9,12 @@ Coding might sound innocent, but as the title suggested, a mistake or an errors 
 This article is aimed to help us as a programmer that we really should be taking those programming language decisions, mistakes, errors etc seriously. 
 
 ## Are we just being too paranoid? 
-A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. How about an errors that can cause some damage$ (yes, real currency) to the company such as payment to some lawsuit? A program/software is interacting with the real world. A worst one can cause not just a lawsuit, some bad reputations or damage$, but injuries, death, and possibly imprisonment.
+A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or is totally forgotten because it beared no consequences. How about an errors that can cause some damage$ (yes, real currency) to the company such as payment to some lawsuit? A program/software is interacting with the real world. How about an error that cause injuries or even death? It won't just end at a lawsuit, gaining some bad reputations or some damage$, but possibly imprisonment.
 
-I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
+## Can an error be that worst?
+I overheard a case online which have me check and read into it, where the case of a fatal memory error in C has caused a car entering __auto pilot mode__ ignoring the driver's input, acclerating by itself, crashed the car, killing driver's friend, left driver severe injured. In the proceedure, the driver has show evidence that desipte how hard on her attempts on pushing hard on the car break, the car just keep accelarating [^2].
 
-Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
+Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid failed to contact the police and resulted victim's death. 
  
 A drug website will always diagnose a forwarding patient to a particular website which sell a particular medicine (for the benefit of the drug company who had hired the DevOp), ignoring the fact that whether the paitent medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
 
