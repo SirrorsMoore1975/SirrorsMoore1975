@@ -4,7 +4,12 @@
 
 Coding helped us to live better. What can go wrong?
 
-Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or code could inflict consequences on the developer and to the user. A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. Herecomes a mild one where the errors are enough to cause some damage$ to the company such as payment to some lawsuit. A worst one can cause not just lawsuit or bad reputations, damage$, but injuries, imprisonment or even death.
+Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or codes could inflict consequences on the developer and to the user. 
+
+This article is aimed to help us as a programmer that we really should be taking those programming language decisions, mistakes, errors etc seriously. 
+
+## Are we just being too paranoid? 
+A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. How about an errors that can cause some damage$ (yes, real currency) to the company such as payment to some lawsuit? A program/software is interacting with the real world. A worst one can cause not just a lawsuit, some bad reputations or damage$, but injuries, death, and possibly imprisonment.
 
 I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
