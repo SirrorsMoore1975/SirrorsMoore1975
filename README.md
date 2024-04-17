@@ -30,6 +30,10 @@ Web app that allow users to give feedbacks and reviews to the Japan Phone Carrie
 4. [KenKen-PA](https://github.com/Phone-Review-App/ccp7-legacy-week) <br>
 Web app that users can create a virtual diary for the places they went in Japan
 
+# Self Learning Exercise
+1. [Python_Exercise_Basic_Conditions](https://github.com/SirrorsMoore1975/SM1975-python-exercise-basic-conditions)<br>
+A python exercise for self learning plus pytest tdd and some personal shell scripting
+
 # My Bio
 My Haiku:
 <b>
