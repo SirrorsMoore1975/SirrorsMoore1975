@@ -1,20 +1,32 @@
 # SirrorsMoore1975
-
-# Introduction
 👋 Hello and Welcome to my GitHub 👋  <br>
-I am <b>Chadwick</b>. I'm a <b>Software Engineer </b><br>  
 
+# My Bio
+I am __Chadwick__. I'm a __Software Engineer__<br>  
+
+# Hobbies
+I play video games, scripting, study Japanese, watch animate manga and light novel, build plastic model, animate figure collections
+
+And most of all...<br>
 👉 I Love playing video games and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
 
 📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
 
+## My Haiku
+<b>
+<ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
+</b>
+<i> ( yukinoyoru darewomominai kutsunohie )</i>
+<br>
+
 # Skills
-| Categories | Name |
+| __Categories__ | __Name__ |
 | ---------- | ---- |
-| Languages | JavaScript, NodeJS, HTML, CSS, Python, Rust, TypeScript |  
-| Frontend | React, GitHub, Knex, PostgreSQL |  
-| Backend | Express |
-| Tools | [Figma](https://www.figma.com/)  |
+| __Languages__ | JavaScript, NodeJS, HTML, CSS, Python, Rust, TypeScript |  
+| __Frontend__ | React, Knex |  
+| __Database__ | PostgreSQL |
+| __Backend__ | Express |
+| __Tools__ | Github, [Figma](https://www.figma.com/)  |
 
 
 # Projects
@@ -34,13 +46,7 @@ Web app that users can create a virtual diary for the places they went in Japan
 1. [Python_Exercise_Basic_Conditions](https://github.com/SirrorsMoore1975/SM1975-python-exercise-basic-conditions)<br>
 A python exercise for self learning plus pytest tdd and some personal shell scripting
 
-# My Bio
-My Haiku:
-<b>
-<ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
-</b>
-<i> ( yukinoyoru darewomominai kutsunohie )</i>
-<br>
+
 
 # A Security Challenge for you
 As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE/README.md) and see what you, as a developer, can do.
