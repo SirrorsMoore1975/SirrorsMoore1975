@@ -2,15 +2,18 @@
 👋 Hello and Welcome to my GitHub 👋  <br>
 
 # My Bio
-I am __Chadwick__. I'm a __Software Engineer__<br>  
+I am __Chadwick__. I'm a __Fullstack Software Engineer__<br>  
+
+# Contact
+📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
+LinkedIn: [Profile](<https://www.linkedin.com/in/chadwick-a-75566599/>) <br>
+CodeWars: [Moore0724](https://www.codewars.com/users/Moore0724) <br>
 
 # Hobbies
-I play video games, scripting, study Japanese, watch animate manga and light novel, build plastic model, animate figure collections
+I play video games, scripting, study Japanese, watch animate manga and light novel, build plastic models, animate figure collections
 
 And most of all...<br>
 👉 I Love playing video games and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
-
-📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
 
 ## My Haiku
 <b>
@@ -27,7 +30,6 @@ And most of all...<br>
 | __Database__ | PostgreSQL |
 | __Backend__ | Express |
 | __Tools__ | Github, [Figma](https://www.figma.com/)  |
-
 
 # Projects
 1. [Oriori](https://github.com/OriOri-CCP7/oriori)  
