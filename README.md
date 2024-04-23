@@ -6,8 +6,8 @@ I am __Chadwick__. I'm a __Fullstack Software Engineer__<br>
 
 # Contact
 📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
-LinkedIn: [Profile](<https://www.linkedin.com/in/chadwick-a-75566599/>) <br>
-CodeWars: [Moore0724](https://www.codewars.com/users/Moore0724) <br>
+LinkedIn: <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
+CodeWars: <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
 
 # Hobbies
 I play video games, scripting, study Japanese, watch animate manga and light novel, build plastic models, animate figure collections
