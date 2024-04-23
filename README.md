@@ -25,7 +25,7 @@ And most of all...<br>
 # Skills
 | __Categories__ | __Name__ |
 | ---------- | ---- |
-| __Languages__ | JavaScript, NodeJS, HTML, CSS, Python, Rust, TypeScript |  
+| __Languages__ | JavaScript, NodeJS, HTML, CSS, Python, Rust, TypeScript, Shell Script |  
 | __Frontend__ | React, Knex |  
 | __Database__ | PostgreSQL |
 | __Backend__ | Express |
