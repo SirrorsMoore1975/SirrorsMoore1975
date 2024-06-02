@@ -4,11 +4,19 @@
 
 Coding helped us to live better. What can go wrong?
 
-Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or code could inflict consequences on the developer and to the user that no one wants. The error size matter, is it? True. A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or totally forgotten and bared no consequences. I am talking about some errors that does not just result in a lawsuit, some bad reputations or damage$ to your working company, but injuries, imprisonment or even death to its users or someone related with the user.
+Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or codes could inflict consequences on the developer and to the user. 
 
-I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
+This article is aimed to help us as a programmer that we really should be taking those programming language decisions, mistakes, errors etc seriously. 
 
-Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
+## Are we just being too paranoid? 
+A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or is totally forgotten because it beared no consequences. How about an errors that can cause some damage$ (yes, real currency) to the company such as payment to some lawsuit? A program/software is interacting with the real world. How about an error that cause injuries or even death? It won't just end at a lawsuit, gaining some bad reputations or some damage$, but possibly imprisonment.
+
+## Can an error be that worst?
+If you have not aware or have not a clue of where I am going at yet, remember this: YOUR CODE CAN KILL. 
+
+I overheard a case online which have me check and read into it, where the case of a fatal memory error in C has caused a car entering __auto pilot mode__ ignoring the driver's input, acclerating by itself, crashed the car, killing driver's friend, left driver severe injured. In the proceedure, the driver has show evidence that desipte how hard on her attempts on pushing hard on the car break, the car just keep accelarating [^2].
+
+Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid failed to contact the police and resulted victim's death. 
  
 A drug website will always diagnose a forwarding patient to a particular website which sell a particular medicine (for the benefit of the drug company who had hired the DevOp), ignoring the fact that whether the paitent medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
 
