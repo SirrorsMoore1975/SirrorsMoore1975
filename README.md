@@ -61,6 +61,9 @@ A python exercise for self learning plus pytest tdd and some personal shell scri
 # A Security Challenge for you
 As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE/README.md) and see what you, as a developer, can do.
 
+# Your Code Could Kill
+What could go wrong on some failing code, causing a software glitch, unintented misbehavior or a malfunction to your code? Read [Your Code Could Kill](./Documents/YOUCODECOULDKILL/README.md) so you never take this lightly.
+
 
 # Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendants, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute. A good read for touching the topics on judges rights and what judges can do during trail.
@@ -86,6 +89,8 @@ The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1],
 <p>
 
 # Preferences  
+
+
 [^1]: Read case online [Sirros v. Moore (CA) 1974](https://swarb.co.uk/sirros-v-moore-ca-1974/)<br>
 
 </p>
