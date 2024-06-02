@@ -22,31 +22,39 @@ And most of all...<br>
 <i> ( yukinoyoru darewomominai kutsunohie )</i>
 <br>
 
-# Skills
+# Software Skills
 | __Categories__ | __Name__ |
 | ---------- | ---- |
 | __Languages__ | JavaScript, NodeJS, HTML, CSS, Python, Rust, TypeScript, Shell Script |  
-| __Frontend__ | React, Knex |  
+| __Frontend__ | ReactJS |  
 | __Database__ | PostgreSQL |
-| __Backend__ | Express |
-| __Tools__ | Github, [Figma](https://www.figma.com/)  |
+| __Backend__ | ExpressJS, Django |
 
-# Projects
+# Tech
+| __Categories__ | __Name__ |
+| ---------- | ---- |
+| __Tools__ | Github, [Figma](https://www.figma.com/) , KnexJS |
+
+# Team Projects
 1. [Oriori](https://github.com/OriOri-CCP7/oriori)  
 Web application tracking Japan seasonal and regional goods
 
-2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)<br>
-Web app trades first or second hand computer parts from user, 
-
-3. [SakuraSignal](https://github.com/Phone-Review-App/SakuraSignal)<br>
+2. [SakuraSignal](https://github.com/Phone-Review-App/SakuraSignal)<br>
 Web app that allow users to give feedbacks and reviews to the Japan Phone Carriers.
 
-4. [KenKen-PA](https://github.com/Phone-Review-App/ccp7-legacy-week) <br>
+3. [KenKen-PA](https://github.com/Phone-Review-App/ccp7-legacy-week) <br>
 Web app that users can create a virtual diary for the places they went in Japan
+
+# Personal Projects
+1. [Nobel-Prizes-SM1975] Under Construction <br>
+Web app help user to search Nobel Prizes winner, with React and Django
+
+2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)<br>
+Web app trades first or second hand computer parts between users
 
 # Self Learning Exercise
 1. [Python_Exercise_Basic_Conditions](https://github.com/SirrorsMoore1975/SM1975-python-exercise-basic-conditions)<br>
-A python exercise for self learning plus pytest tdd and some personal shell scripting
+A python exercise for self learning plus pytest tdd and some personal shell scripting (may add branches for solution and answer later)
 
 
 
