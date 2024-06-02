@@ -2,21 +2,20 @@
 
 [Go Back](../../README.md)
 
-Coding helped us to live better. What can go wrong?
+Coding, supposingly, is to help us to live a better life. What can coding go wrong?
 
-Coding might sound innocent, but as the title suggested, a mistake or an errors in the language, software or codes could inflict consequences on the developer and to the user. 
+A mistake in the code, an errors in the language, malfunction to the software, applications conflicts, unforeseeable bugs, user cases became beyond the original purposes or the language used has reached it limits, etc, could inflict unthinkable consequences beyond any reasonable developer and harm any user(s) or people in the process who might be around the product.
 
-This article is aimed to help us as a programmer that we really should be taking those programming language decisions, mistakes, errors etc seriously. 
+Some mistakes or errors are not big enough to cause enough harm to the surround. A small error might just end at the end of user's browser or on the apps, it might be fixable within a few hours, or the issues might not be significant enough and considered can be completely ignored by the devlopers or can be completely forgotten about since it bared "no physical consequences" for the moment. 
 
-## Are we just being too paranoid? 
-A small error might just end at the end of user's browser or on the apps, it might end up as an open issue at GitHub waiting to be resolved, or the issue is completely ignored or is totally forgotten because it beared no consequences. How about an errors that can cause some damage$ (yes, real currency) to the company such as payment to some lawsuit? A program/software is interacting with the real world. How about an error that cause injuries or even death? It won't just end at a lawsuit, gaining some bad reputations or some damage$, but possibly imprisonment.
+A mild errors or mistake could cause financial lost, to the developer, to the users, to anyone related, to anyone surrounding themselves to the software, or those who are relying on the software. You CAN still "PAY" your way out for those mistakes or fault when you are the source. You might gain some bad reputation in the process. Surely it is a painful experience no one would wants or have to experience and it is a very poor lesson to learn from (and anyone should try their best to avoid before committing those mistakes).
 
-## Can an error be that worst?
-If you have not aware or have not a clue of where I am going at yet, remember this: YOUR CODE CAN KILL. 
+But where such errors does end up as injuries, even death to others, this is not a mistake or error you can easily pay out through finance or from your reputation.  
 
-I overheard a case online which have me check and read into it, where the case of a fatal memory error in C has caused a car entering __auto pilot mode__ ignoring the driver's input, acclerating by itself, crashed the car, killing driver's friend, left driver severe injured. In the proceedure, the driver has show evidence that desipte how hard on her attempts on pushing hard on the car break, the car just keep accelarating [^2].
+# Programming languages that caused death
+I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
-Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid failed to contact the police and resulted victim's death. 
+Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
  
 A drug website will always diagnose a forwarding patient to a particular website which sell a particular medicine (for the benefit of the drug company who had hired the DevOp), ignoring the fact that whether the paitent medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
 
@@ -34,16 +33,24 @@ Read Article:-
 - __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
 
 # What can developer do ...
-- Check your code, check again, re-check again. 
-- Practice as much as you can. Challenge yourself
-- Accept feedback, good or bad one.
+You can, as a developer, grow awareness to all those fault that is under your control. DO NOT leave an errors hanging, learn what you can do to opt out from the errors. You are an "Engineer", you are suppose to make things work and responsible to what you make.
 
-# Can we avoid those errors
-We are human, we do not know everything, we make mistakes, but sometime this kind of negligence can also cause damages to us or others and even in the cause of human life.
+You might also needed to:-
+- Check your code, check again, re-check again, again and again. Some mistake are not easy to spot, especially when after hugh efforts and hours has been put into a project.
+- Practice as much as you can while you can when you can. Challenge yourself to difficult problems ahead of time, so that when the real deal came up you will have enough skills to diffuse it quick, fast and accurately.
+- Accept feedbacks, good one or bad one. Be more on acceptable to opposition voices. We might be relutance to know our faults, but you never know when will those precautions made through those feedbacks or voices you were relutance to hear have saved you.
+- Know yourself better. Knowing yourself help you to tackle some habits that could cause you to those mistake. It is a life long lesson that any developer needed to learn. 
 
-Back in the 90s, we have Y2K problem (now we are close to another UNIX timestamp limit)
+# You CANNOT fully avoid all faults
+No matter how perfect the application is, there is ought to be an error somewhere. Human nature tends to make us unavoidable to those faults. We don't know everything, but this is not an excuse that we can be careless, and we will still end up with responsibilites on our back in the process. Therefore, you must keep learning, accept people feedback or oppsiting voices more, understand that you are not perfect and will make mistake but not careless to how you appoach problems at the same time.
 
-Some mistake can be avoided by practicing more, get yourself more familiar to the languages, do not stand still, continue researching, continue to explore, continue to learn, learn from history, be more open, listen to reasonable feedback, most importantly, check, re-check, re-re-check you code  
+Learn from people, learn from history, learn the language pros and cons, study as much as you can. Be more acceptable to new technology, be willing to change or upgrade yourself further.
+
+I hope this message will go through everyone hearts.
+
+# Disclaimer
+
+- The statement posted or listed in this documents are not considered to be some advices, legal advices, or any sort of requests or orders. I am not holding any legal responsibility for your losses in following them.
 
 # Perference
 [^2]: The case of BOOKOUT and SCHWARZ v. TOYOTA (2008), see more at
