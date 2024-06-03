@@ -1,39 +1,17 @@
 # SirrorsMoore1975
 👋 Hello and Welcome to my GitHub 👋  <br>
 
-# My Bio
 I am __Chadwick__. I'm a __Fullstack Software Engineer__<br>  
 
-# Contact
-📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
-LinkedIn: <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
-CodeWars: <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
-
-# Hobbies
-I play video games, scripting, study Japanese, watch animate manga and light novel, build plastic models, animate figure collections
-
-And most of all...<br>
-👉 I Love playing video games and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
-
-## My Haiku
-<b>
-<ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
-</b>
-<i> ( yukinoyoru darewomominai kutsunohie )</i>
-<br>
-
-# Software Skills
+# Tech stack
 | __Categories__ | __Name__ |
 | ---------- | ---- |
 | __Languages__ | JavaScript, NodeJS, HTML, CSS, Python, Rust, TypeScript, Shell Script |  
 | __Frontend__ | ReactJS |  
 | __Database__ | PostgreSQL |
 | __Backend__ | ExpressJS, Django |
-
-# Tech
-| __Categories__ | __Name__ |
-| ---------- | ---- |
-| __Tools__ | Github, [Figma](https://www.figma.com/) , KnexJS |
+| __Testing__ | pytest, jasmine, mocha, chai, jest | 
+| __Other Tools__ | Github, [Figma](https://www.figma.com/) |
 
 # Team Projects
 1. [Oriori](https://github.com/OriOri-CCP7/oriori)  
@@ -55,6 +33,25 @@ Web app trades first or second hand computer parts between users
 # Self Learning Exercise
 1. [Python_Exercise_Basic_Conditions](https://github.com/SirrorsMoore1975/SM1975-python-exercise-basic-conditions)<br>
 A python exercise for self learning plus pytest tdd and some personal shell scripting (may add branches for solution and answer later)
+
+# Contact
+📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
+LinkedIn: See my <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
+CodeWars: <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
+
+# Hobbies
+I enjoy using Linux, learn scripting (such as codewars), love resolving puzzles (enjoy new challenges), studying Japanese, watch Japanese animate -manga and light novel, build plastic models (GUNDAM), animate figure collections (WAIFUs)
+
+And most of all...<br>
+👉 I Love playing video games -especially FPS (First Person Shooter), and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
+
+## My Haiku
+<b>
+<ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
+</b>
+<i> ( yukinoyoru darewomominai kutsunohie )</i>
+<br>
+
 
 
 
