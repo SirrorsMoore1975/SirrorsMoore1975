@@ -35,17 +35,19 @@ Web app trades first or second hand computer parts between users
 A python exercise for self learning plus pytest tdd and some personal shell scripting (may add branches for solution and answer later)
 
 # Contact
-📧  Email: Click to <a href="mailto:SirrorsMoore1975@github.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
-LinkedIn: See my <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
-CodeWars: <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
+Contact me through:-<br />
+1. Create a general [Issues](https://github.com/SirrorsMoore1975/SirrorsMoore1975/issues) <br>
+1. Create a general [Discussions](https://github.com/SirrorsMoore1975/SirrorsMoore1975/discussions) <br>
+1. See my LinkedIn <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
+1. See how I did in CodeWars <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
 
 # Hobbies
-I enjoy using Linux, learn scripting (such as codewars), love resolving puzzles (enjoy new challenges), studying Japanese, watch Japanese animate -manga and light novel, build plastic models (GUNDAM), animate figure collections (WAIFUs)
+I enjoy using Linux, learn scripting, love resolving puzzles (enjoy new challenges), studying Japanese, watch Japanese animate -manga and light novel, build plastic models, animate figure collections 
 
 And most of all...<br>
-👉 I Love playing video games -especially FPS (First Person Shooter), and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
+👉 I Love playing video games -especially FPS (First Person Shooter), and recommended [Titanfall2](https://store.steampowered.com/app/1237970/Titanfall_2/) with addon mod: [Northstar](https://github.com/R2Northstar/Northstar) 👈 <br>
 
-## My Haiku
+# My Haiku
 <b>
 <ruby>雪<rt>ゆき</rt></ruby>の<ruby>夜<rt>よる</rt></ruby> <ruby>誰<rt>だれ</rt></ruby>をも<ruby>見<rt>み</rt></ruby>ない <ruby>靴<rt>くつ</rt></ruby>の<ruby>冷<rt>ひ</rt></ruby>え
 </b>
@@ -53,18 +55,19 @@ And most of all...<br>
 <br>
 
 
+# My Article
 
-
-# A Security Challenge for you
+## A Security Challenge for you
 As privacy invasion, live freely, individual user rights and security has become a wide concerning topic in the digital age, please consider spend time on reading [A SECURITY CHALLENGE FOR YOU](Documents/SECURITYCHALLENGE/README.md) and see what you, as a developer, can do.
 
-# Your Code Could Kill
+## Your Code Could Kill
 What could go wrong on some failing code, causing a software glitch, unintented misbehavior or a malfunction to your code? Read [Your Code Could Kill](./Documents/YOUCODECOULDKILL/README.md) so you never take this lightly.
 
 
-# Why username SirrorsMoore1975? 
+## Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendants, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute. A good read for touching the topics on judges rights and what judges can do during trail.
 <br>
+
 # Status
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true) 
