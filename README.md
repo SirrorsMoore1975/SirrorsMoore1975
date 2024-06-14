@@ -35,7 +35,7 @@ Web app trades first or second hand computer parts between users
 A python exercise for self learning plus pytest tdd and some personal shell scripting (may add branches for solution and answer later)
 
 # Contact
-📧  Email: Click to <a href="mailto:chadwickau@hotmail.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
+📧  Email: Click to <a href="mailto:SirrorsMoore1975@github.com?subject=Github%20Job" target="_blank">contact me</a>  📧  <br>
 LinkedIn: See my <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
 CodeWars: <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
 
