@@ -37,7 +37,7 @@ A python exercise for self learning plus pytest tdd and some personal shell scri
 # Contact
 Contact me through:-<br />
 1. Create a general [Issues](https://github.com/SirrorsMoore1975/SirrorsMoore1975/issues) <br>
-1. Create a general [Discussions](https://github.com/SirrorsMoore1975/SirrorsMoore1975/discussions) <br>
+1. Create a general [Discussions](https://github.com/SirrorsMoore1975/SirrorsMoore1975/discussions/new?category=general) <br>
 1. See my LinkedIn <a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank"> Profile </a> <br>
 1. See how I did in CodeWars <a href="https://www.codewars.com/users/Moore0724" target="_blank"> Moore0724 </a> <br>
 
