@@ -63,6 +63,8 @@ As privacy invasion, live freely, individual user rights and security has become
 ## Your Code Could Kill
 What could go wrong on some failing code, causing a software glitch, unintented misbehavior or a malfunction to your code? Read [Your Code Could Kill](./Documents/YOUCODECOULDKILL/README.md) so you never take this lightly.
 
+## How To Install Postgres and run it on Linux
+There are various tutorial online which help anyone wants to run postgres on their linux machine. Resources like artiles from Digital Ocean are great. However, I find it difficult to obtain an artile that concentrated on Linux. I wrote [this](https://medium.com/@chadwickau/how-to-install-postgres-on-linux-5c7e507e0b94) article in [Medium](https://medium.com/) and hope that anyone who might want POSTGRES to run on their Linux machine find it helpful.
 
 ## Why username SirrorsMoore1975? 
 The name `SirrorsMoore1975` came from the case name `Sirros v. Moore 1975` [^1], where the Plaintiff sued the Defendants, a circuit judge and a police officer, for an order the Plaintiff believed the Defendants do not have the jurisdiction to execute. A good read for touching the topics on judges rights and what judges can do during trail.
