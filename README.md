@@ -24,7 +24,7 @@ Web app that allow users to give feedbacks and reviews to the Japan Phone Carrie
 Web app that users can create a virtual diary for the places they went in Japan
 
 # Personal Projects
-1. [Nobel-Prizes-SM1975] Under Construction <br>
+1. [Nobel-Prizes-SM1975](https://github.com/ReONE-SM1975/nobel_prizes_SM1975) Under Construction <br>
 Web app help user to search Nobel Prizes winner, with React and Django
 
 2. [WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)<br>
