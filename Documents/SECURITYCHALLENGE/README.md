@@ -171,10 +171,8 @@ The changes will not be making your life become more miserable or unsubstainable
 - Is it within your powers, abilities or decisions to make the change?
 - You are using big tech companies tech and willing to change:
   - And you know that there are alternative tech available;
-
-OR
-
-- However, the tech is not yet available but you think you can help contributing;
+  OR
+  - However, the tech is not yet available but you think you can help contributing;
 
 Then challenge yourself and share that:
 
