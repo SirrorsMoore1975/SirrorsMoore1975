@@ -102,7 +102,7 @@ so you never take this lightly.
 
 There are various tutorial online which help anyone wants to run postgres on their
 linux machine. Resources like artiles from Digital Ocean are great. However,
-I find it difficult to obtain an artile that concentrated on Linux. 
+I find it difficult to obtain an artile that concentrated on Linux.
 I wrote [[this](https://medium.com/@chadwickau/how-to-install-postgres-on-linux-5c7e507e0b94)]
 article in [[Medium](https://medium.com/)]
 and hope that anyone who might want POSTGRES to run on their Linux machine find
@@ -118,9 +118,9 @@ do during trail.
 
 ## Status
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
 
