@@ -131,6 +131,14 @@ Try out Goggle Pixel with [[GrapheneOS](https://grapheneos.org/#about)]
 for the best experience you can have. You can also start from degooglizing your
 life as your first step if it is too huge a step to take.
 
+  - Recently, GrapheneOS realized some mobile APPs has banned GrapheneOS based on
+  of some misinfo or might have leaning toward big tech interest,
+  read their short article section
+  [[Apps Banning GrapheneOS](https://grapheneos.org/articles/attestation-compatibility-guide#apps-banning-grapheneos)
+  ]
+  (30 second reading) and consider aiding GrapheneOS
+  to continue their excellent project
+
 - Wanted to get back the control to your computer? Try out
 [[Ubuntu](https://ubuntu.com/)] and
 [[Linux Mint](https://linuxmint.com/)]
