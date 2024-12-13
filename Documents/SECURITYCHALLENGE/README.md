@@ -79,33 +79,33 @@ To begin with, you needed to ask yourself a few questions:-
 
 1. Where can we start?
 
-  Try looking at the following points:
+    Try looking at the following points:
 
-  1. Alternative software
+    1. Alternative software
   
-     - Is there alternative software or application that can achieve the same goal
+       - Is there alternative software or application that can achieve the same goal
      you are doing?
   
-       You will be supprised to learn there are alternative softwares that might
+         You will be supprised to learn there are alternative softwares that might
        be free and open sources and are maintained by a communities or developers.
   
-       However, it is not always the case that there are available alternatives. 
+         However, it is not always the case that there are available alternatives. 
        If this become the case, consider maybe:-
 
-       - build an alternative application replacing it yourself, if possible;
-       - use the unfortunate software or application, for the moment, and wait
+         - build an alternative application replacing it yourself, if possible;
+         - use the unfortunate software or application, for the moment, and wait
         until such alternative available and switch to it
   
-       But, as mentioned above, you or your team might be limited by the
+         But, as mentioned above, you or your team might be limited by the
        companies or clients who you are working with, such actions might not be
        appreciated by those who you are working with (in terms of cost, time,
        money, patient, skills, resources, demands, tech available, etc). Just try
        to search for alternative within your capacity and limitation.
   
-  1. Recognize the technology source
+    1. Recognize the technology source
   
-      Look who is providing the technology, for instant, the FAANG gangs, M$, etc?
-      Or some open source communities with __sounds__ reputation?
+        Look who is providing the technology, for instant, the FAANG gangs, M$, etc?
+        Or some open source communities with __sounds__ reputation?
 
 1. Do not become part of the engine of that invasion
 
@@ -127,9 +127,9 @@ As far as your companies demand them? As far as your client demand them?
 
 1. Understand that
 
-  - Users' data are not assets that are for politics, groups, organization,
- individual, companies or any entities imaginable to harvest, invested, sold out
- or manipulate upon. And that, it is absolutely not for users' tendencies
+    - Users' data are not assets that are for politics, groups, organization,
+ individual, companies or any entities imaginable to harvest, invested, sell,
+ sold out or manipulate upon. And that, it is absolutely not for users' tendencies
  manipulating, or being weaponized to use for or against particular, or group(s)
  of, user or for any person(s)/group(s) at their benefits/disadvantages.
 
@@ -158,8 +158,8 @@ to high risk of security, such as:-
   
          are really way too much and must be stopped.
 
-  - You as a developer has:-
-    - No rights to control what kind of contents, moral, believes or thoughts
+    - You as a developer has:-
+      - No rights to control what kind of contents, moral, believes or thoughts
   your user can or cannot have.
 
 ## Share this challenge
