@@ -55,8 +55,8 @@ To begin with, you needed to ask yourself a few questions:-
 
 1. It is not a challenge for everyone
 
-   How far can we depart ourselves as a developer from the protection on invasion of
-   privacy and security in today modern world? It is difficult since:-
+   How far can we depart ourselves as a developer from the protection on invasion
+   of privacy and security in today modern world? It is difficult since:-
       - it depends on the client's needs or demands;
       - alternative tech are not propular;
       - the techs are available but not mature;
@@ -89,7 +89,7 @@ To begin with, you needed to ask yourself a few questions:-
          You will be supprised to learn there are alternative softwares that might
        be free and open sources and are maintained by a communities or developers.
   
-         However, it is not always the case that there are available alternatives. 
+         However, it is not always the case that there are available alternatives.
        If this become the case, consider maybe:-
 
          - build an alternative application replacing it yourself, if possible;
@@ -178,7 +178,7 @@ The changes will not be making your life become more miserable or unsubstainable
   OR
   - However, the tech is not yet available but you think you can help contributing;
 
-Then challenge yourself and share that:
+### Then challenge yourself and share that
 
 I am determined that:-
 
