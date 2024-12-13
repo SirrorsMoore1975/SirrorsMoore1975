@@ -80,7 +80,7 @@ To begin with, you needed to ask yourself a few questions:-
       - the infrastructure of the tech your working company are relying upon, of
       which it does not allow you to depart from;
       - the services your working company are supplying to their clients cannot be
-      or afford to, change (due to time, contract terms, instructions, etc); and,
+      or afford to change (due to time, contract terms, instructions, etc); and,
       - the developer's tech preferences or habits:-
         - they might not have the time (or have the time to learn new alternatives),
         - worries that the shift would lower their professional abilities, or
