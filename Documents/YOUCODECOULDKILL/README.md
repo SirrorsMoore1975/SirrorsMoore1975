@@ -1,6 +1,6 @@
-<div align="center"><h1>Your Code Could Kill</h1></div>
+# Your Code Could Kill
 
-[Go Back](../../README.md)
+[[Go Back](../../README.md)]
 
 Coding, supposingly, is to help us to live a better life. What can coding go wrong?
 
