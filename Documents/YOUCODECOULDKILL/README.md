@@ -2,9 +2,21 @@
 
 [[Go Back](../../README.md)]
 
-Coding, supposingly, is to help us to live a better life. What can coding go wrong?
+Computer programming is to help us to live a better life. What can coding go wrong?
 
-A mistake in the code, an errors in the language, malfunction to the software, applications conflicts, unforeseeable bugs, user cases became beyond the original purposes or the language used has reached it limits, etc, could inflict unthinkable consequences beyond any reasonable developer and harm any user(s) or people in the process who might be around the product.
+## The Errors That We Noticed
+
+What errors we already have  noticed?
+
+  - A mistake in your code;
+  - a memory error in the programming language;
+ - a malfunction to the software, 
+ - an applications conflicts, 
+ - an unforeseeable bugs, 
+ - user cases became beyond the original purposes
+ - or the language used has reached it limits, etc, 
+ 
+ could inflict unthinkable consequences beyond any reasonable developer and harm any user(s) or people in the process who might be around the product.
 
 Some mistakes or errors are not big enough to cause enough harm to the surround. A small error might just end at the end of user's browser or on the apps, it might be fixable within a few hours, or the issues might not be significant enough and considered can be completely ignored by the devlopers or can be completely forgotten about since it bared "no physical consequences" for the moment. 
 
