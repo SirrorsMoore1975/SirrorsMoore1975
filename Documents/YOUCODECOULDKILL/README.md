@@ -8,17 +8,21 @@ Computer programming is to help us to live a better life. What can coding go wro
 
 What errors we already have  noticed?
 
-  - A mistake in your code;
-  - a memory error in the programming language;
- - a malfunction to the software, 
- - an applications conflicts, 
- - an unforeseeable bugs, 
- - user cases became beyond the original purposes
- - or the language used has reached it limits, etc, 
- 
- could inflict unthinkable consequences beyond any reasonable developer and harm any user(s) or people in the process who might be around the product.
+- A mistake in your code;
+- a memory error in the programming language;
+- a malfunction to the software;
+- an applications conflicts;
+- an unforeseeable bugs;
+- user cases became beyond the original purposes;
+- or the language used has reached it limits, etc,
 
-Some mistakes or errors are not big enough to cause enough harm to the surround. A small error might just end at the end of user's browser or on the apps, it might be fixable within a few hours, or the issues might not be significant enough and considered can be completely ignored by the devlopers or can be completely forgotten about since it bared "no physical consequences" for the moment. 
+could inflict unthinkable consequences beyond any reasonable
+developer and harm any user(s) or people in the process who
+might be around the product.
+
+Some mistakes or errors are not big enough to cause enough harm, damage to you
+or your organization. A small error might just end at the end of user's browser
+or on the apps, it might be fixable within a few hours, or the issues might not be significant enough and considered can be completely ignored by the devlopers or can be completely forgotten about since it bared "no physical consequences" for the moment. 
 
 A mild errors or mistake could cause financial lost, to the developer, to the users, to anyone related, to anyone surrounding themselves to the software, or those who are relying on the software. You CAN still "PAY" your way out for those mistakes or fault when you are the source. You might gain some bad reputation in the process. Surely it is a painful experience no one would wants or have to experience and it is a very poor lesson to learn from (and anyone should try their best to avoid before committing those mistakes).
 
