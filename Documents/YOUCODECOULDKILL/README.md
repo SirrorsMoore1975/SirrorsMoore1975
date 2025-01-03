@@ -1,18 +1,27 @@
-<div align="center"><h1>Your Code Could Kill</h1></div>
+# Your Code Could Kill
 
 [Go Back](../../README.md)
 
-Coding, supposingly, is to help us to live a better life. What can coding go wrong?
+## Forward
 
-A mistake in the code, an errors in the language, malfunction to the software, applications conflicts, unforeseeable bugs, user cases became beyond the original purposes or the language used has reached it limits, etc, could inflict unthinkable consequences beyond any reasonable developer and harm any user(s) or people in the process who might be around the product.
+Programming is supposed to help us to live a better life. What can coding go wrong?
 
-Some mistakes or errors are not big enough to cause enough harm to the surround. A small error might just end at the end of user's browser or on the apps, it might be fixable within a few hours, or the issues might not be significant enough and considered can be completely ignored by the devlopers or can be completely forgotten about since it bared "no physical consequences" for the moment. 
+Things that could happen to the softwares or applications :-
 
-A mild errors or mistake could cause financial lost, to the developer, to the users, to anyone related, to anyone surrounding themselves to the software, or those who are relying on the software. You CAN still "PAY" your way out for those mistakes or fault when you are the source. You might gain some bad reputation in the process. Surely it is a painful experience no one would wants or have to experience and it is a very poor lesson to learn from (and anyone should try their best to avoid before committing those mistakes).
+- A mistake in your code
+- an errors in the language 
+- a malfunction to the software
+- an applications conflicts 
+- an unforeseeable bugs
+- the use cases became beyond the original purposes
+- the language used has reached it limits,
 
-But where such errors does end up as injuries, even death to others, this is not a mistake or error you can easily pay out through finance or from your reputation.  
+etc,.
 
-# Programming languages that caused death
+they all could cause potential conflict to our code, causing failure to the hardware, which can cause financial harm and even inflict injuries, harms or even death. This must be in absolute caution as some of the mistake or harm are beyond any reasonable developers or anyone working around the software could imagine.
+
+
+## Programming languages that caused death
 I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
 Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
