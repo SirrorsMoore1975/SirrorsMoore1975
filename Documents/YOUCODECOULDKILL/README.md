@@ -8,20 +8,20 @@ Programming is supposed to help us to live a better life. What can coding go wro
 
 Things that could happen to the softwares or applications :-
 
-- A mistake in your code
-- an errors in the language 
-- a malfunction to the software
-- an applications conflicts 
-- an unforeseeable bugs
-- the use cases became beyond the original purposes
+- A mistake in your code;
+- an errors in the language;
+- a malfunction to the software;
+- an applications conflicts;
+- an unforeseeable bugs;
+- the use cases became beyond the original purposes;
 - the language used has reached it limits,
 
 etc,.
 
-they all could cause potential conflict to our code, causing failure to the hardware, which can cause financial harm and even inflict injuries, harms or even death. This must be in absolute caution as some of the mistake or harm are beyond any reasonable developers or anyone working around the software could imagine.
+they all can cause potential conflict to our code, and further down, it could causing fatal failure to the hardware, cause harms, financially or physically, or even death. A purdent developer might be able to free him/herself from such fatal errors, and this article are intended to let newbie or those who are not careful to pay more attention and not to take such potential life threatening errors lightly.
 
+### Programming language that caused death
 
-## Programming languages that caused death
 I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
 Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
@@ -34,15 +34,16 @@ Read Article:-
 - [Bad Bugs: The worst disasters caused by software fails](https://www.newscientist.com/gallery/software-bugs/) From [New Science](https://www.newscientist.com/) Dated: 2013.06.05
 - [6 Reasons legacy systems are still in use](https://www.techtarget.com/searchcio/feature/6-reasons-legacy-systems-are-still-in-use) From [Tech Targert](https://www.techtarget.com/) Dated 2023.07.05
 
-# Where did the errors came from
+### Where did the errors came from
+
 - __Human Factor__ : a fault that the programmer did not comprehend, ignored, in ignorance of, or the faulty of the programmer part. Or fault on the user have use the application beyond the original or intended purposes.
 
 - __Mechanical Factor__ : this errors came from the design of the language, it might be because it is a legacy programming language, the scripts might have exceeded the original purposes or has reached its limitation or has went far beyond than it was enticipated
 
-- __Netural Factor__ : a nuisance that neither caused by human, machine or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
+- __Natural Phenomena Factor__ : a nuisance that neither caused by human, machines or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
 
-# What can developer do ...
-You can, as a developer, grow awareness to all those fault that is under your control. DO NOT leave an errors hanging, learn what you can do to opt out from the errors. You are an "Engineer", you are suppose to make things work and responsible to what you make.
+### What can developer do ...
+You can, as a developer, grow awareness to all those fault that is under your control. DO NOT leave an errors hanging, learn what you can do to opt out from those errors. You are an "Engineer", you are suppose to make things work better and be responsible to what you make.
 
 You might also needed to:-
 - Check your code, check again, re-check again, again and again. Some mistake are not easy to spot, especially when after hugh efforts and hours has been put into a project.
@@ -50,18 +51,21 @@ You might also needed to:-
 - Accept feedbacks, good one or bad one. Be more on acceptable to opposition voices. We might be relutance to know our faults, but you never know when will those precautions made through those feedbacks or voices you were relutance to hear have saved you.
 - Know yourself better. Knowing yourself help you to tackle some habits that could cause you to those mistake. It is a life long lesson that any developer needed to learn. 
 
-# You CANNOT fully avoid all faults
+### You CANNOT fully avoid all faults
+
 No matter how perfect the application is, there is ought to be an error somewhere. Human nature tends to make us unavoidable to those faults. We don't know everything, but this is not an excuse that we can be careless, and we will still end up with responsibilites on our back in the process. Therefore, you must keep learning, accept people feedback or oppsiting voices more, understand that you are not perfect and will make mistake but not careless to how you appoach problems at the same time.
 
 Learn from people, learn from history, learn the language pros and cons, study as much as you can. Be more acceptable to new technology, be willing to change or upgrade yourself further.
 
 I hope this message will go through everyone hearts.
 
-# Disclaimer
+## Disclaimer
 
-- The statement posted or listed in this documents are not considered to be some advices, legal advices, or any sort of requests or orders. I am not holding any legal responsibility for your losses in following them.
+- The statement posted or listed in this documents are not considered to be some advices, legal advices, or any sort of requests or orders. I am not holding any legal responsibility for your losses in following or not following them.
 
-# Perference
+## Preference
+
 [^2]: The case of BOOKOUT and SCHWARZ v. TOYOTA (2008), see more at
-- [vimeo](https://vimeo.com/108663584)
-- [youtube](https://www.youtube.com/watch?v=bJyE9OUhhAM&t=606s) Fatal C Error that took her live - Let's Get Rusty
+
+  - [vimeo](https://vimeo.com/108663584)
+  - [youtube](https://www.youtube.com/watch?v=bJyE9OUhhAM&t=606s) Fatal C Error that took her live - Let's Get Rusty
