@@ -34,15 +34,18 @@ Read Article:-
 - [Bad Bugs: The worst disasters caused by software fails](https://www.newscientist.com/gallery/software-bugs/) From [New Science](https://www.newscientist.com/) Dated: 2013.06.05
 - [6 Reasons legacy systems are still in use](https://www.techtarget.com/searchcio/feature/6-reasons-legacy-systems-are-still-in-use) From [Tech Targert](https://www.techtarget.com/) Dated 2023.07.05
 
-### Where did the errors came from
+### What contributed to the errors we receiving
 
-- __Human Factor__ : a fault that the programmer did not comprehend, ignored, in ignorance of, or the faulty of the programmer part. Or fault on the user have use the application beyond the original or intended purposes.
+We can break it up into the following points:
 
-- __Mechanical Factor__ : this errors came from the design of the language, it might be because it is a legacy programming language, the scripts might have exceeded the original purposes or has reached its limitation or has went far beyond than it was enticipated
+- __Human Factor__ : a fault that the programmer did not comprehend, ignored, in ignorance of, poor habits of or the faulty of the programmer part, etc. The errors can also occurs when the user have use the application beyond the original or intended purposes that the programmer did not enticipated or aware of.
 
-- __Natural Phenomena Factor__ : a nuisance that neither caused by human, machines or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen.
+- __Mechanical Factor__ : this errors came from the design of the language, or the way the scripts is written. It might be because it is a legacy programming language, the scripts might have exceeded the original purposes or has reached its limitation or has went far beyond than it was enticipated.
+
+- __Natural Phenomena Factor__ : a nuisance that neither caused by human, machines or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen. For example, an earthquake that never would occurs in such area where the devices were and the equiments would unlikely to have expect to take any measure for an occurance of the earthquake. Unexpectedly, an overwhelming cold wave occurs that stop the devices from giving correct measurement when your scripts are deeply depending on the result of the device and some other devices also are depending to your scripts.
 
 ### What can developer do ...
+
 You can, as a developer, grow awareness to all those fault that is under your control. DO NOT leave an errors hanging, learn what you can do to opt out from those errors. You are an "Engineer", you are suppose to make things work better and be responsible to what you make.
 
 You might also needed to:-
@@ -53,9 +56,7 @@ You might also needed to:-
 
 ### You CANNOT fully avoid all faults
 
-No matter how perfect the application is, there is ought to be an error somewhere. Human nature tends to make us unavoidable to those faults. We don't know everything, but this is not an excuse that we can be careless, and we will still end up with responsibilites on our back in the process. Therefore, you must keep learning, accept people feedback or oppsiting voices more, understand that you are not perfect and will make mistake but not careless to how you appoach problems at the same time.
-
-Learn from people, learn from history, learn the language pros and cons, study as much as you can. Be more acceptable to new technology, be willing to change or upgrade yourself further.
+No matter how perfect the application is, there is ought to be an error somewhere. Human nature tends to make us unavoidable to those faults. We don't know everything, you cannot control everything, but this is not an excuse that we can be careless, we can only do what we can do, and we will still end up being responsibilites in the process. Therefore, you must keep learning, accept people feedback and opposition voices, understand that you are not perfect, you cannot control everything and will still make mistake even if you are very careful, but not careless on how you appoach problems at the same time, willing to learn from your mistake, learn from others and gain more experiences, keep trying, never easily give up. Learn from people, learn from history, learn the language pros and cons, study as much as you can. Be more acceptable to new technology, be willing to change or upgrade yourself further.
 
 I hope this message will go through everyone hearts.
 
