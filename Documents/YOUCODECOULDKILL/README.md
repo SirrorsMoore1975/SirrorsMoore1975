@@ -38,20 +38,48 @@ Read Article:-
 
 We can break it up into the following points:
 
-- __Human Factor__ : a fault that the programmer did not comprehend, ignored, in ignorance of, poor habits of or the faulty of the programmer part, etc. The errors can also occurs when the user have use the application beyond the original or intended purposes that the programmer did not enticipated or aware of.
+- __Human Factor__ : 
+a fault that the programmer did not comprehend, ignored,
+ in ignorance of, poor habits of or the faulty of the programmer part, etc. 
+ The errors can also occurs when the user have use the application beyond 
+ the original or intended purposes that the programmer did not anticipated 
+ or aware of.
 
-- __Mechanical Factor__ : this errors came from the design of the language, or the way the scripts is written. It might be because it is a legacy programming language, the scripts might have exceeded the original purposes or has reached its limitation or has went far beyond than it was enticipated.
+- __Mechanical Factor__ : 
+this errors came from the design of the language,
+ or the way the scripts is written. It might be because it is a legacy
+  programming language, the scripts might have exceeded the original purposes
+   or has reached its limitation or has went far beyond than it was anticipated.
 
-- __Natural Phenomena Factor__ : a nuisance that neither caused by human, machines or known facts, but it is such a cause that, such as an Act of God, a situation that no reasonable person could have make any precaution to prevent it from happening or can predict it will happen. For example, an earthquake that never would occurs in such area where the devices were and the equiments would unlikely to have expect to take any measure for an occurance of the earthquake. Unexpectedly, an overwhelming cold wave occurs that stop the devices from giving correct measurement when your scripts are deeply depending on the result of the device and some other devices also are depending to your scripts.
+- __Natural Phenomena Factor__ : 
+a nuisance that neither caused by human, 
+machines or known facts, but it is such a cause that, 
+such as an Act of God, 
+a situation that no reasonable person could have make any precaution to prevent 
+it from happening or can predict it will happen. For example, an earthquake that 
+never would occurs in such area where the devices were and the equipments 
+would unlikely to have expect to take any measure for 
+an occurrence of the earthquake. Unexpectedly, 
+an overwhelming cold wave occurs that stop the devices from giving correct 
+measurement when your scripts are deeply depending on the result of the device 
+and some other devices also are depending to your scripts.
 
 ### What can developer do ...
 
-You can, as a developer, grow awareness to all those fault that is under your control. DO NOT leave an errors hanging, learn what you can do to opt out from those errors. You are an "Engineer", you are suppose to make things work better and be responsible to what you make.
+You can, as a developer, grow awareness to all those fault 
+that is under your control. 
+DO NOT leave an errors hanging, learn what you can do to opt out from 
+those errors. You are an "Engineer", you are suppose to make things work better 
+and be responsible to what you make.
 
 You might also needed to:-
+
 - Check your code, check again, re-check again, again and again. Some mistake are not easy to spot, especially when after hugh efforts and hours has been put into a project.
+
 - Practice as much as you can while you can when you can. Challenge yourself to difficult problems ahead of time, so that when the real deal came up you will have enough skills to diffuse it quick, fast and accurately.
+
 - Accept feedbacks, good one or bad one. Be more on acceptable to opposition voices. We might be relutance to know our faults, but you never know when will those precautions made through those feedbacks or voices you were relutance to hear have saved you.
+
 - Know yourself better. Knowing yourself help you to tackle some habits that could cause you to those mistake. It is a life long lesson that any developer needed to learn. 
 
 ### You CANNOT fully avoid all faults
