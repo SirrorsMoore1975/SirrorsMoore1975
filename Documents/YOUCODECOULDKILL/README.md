@@ -6,15 +6,18 @@
 
 Programming is supposed to help us to live a better life. What can coding go wrong?
 
-A mistake in the code, an errors in the language, malfunction to the software, applications conflicts, unforeseeable bugs, user cases became beyond the original purposes or the language used has reached it limits, etc, could inflict unthinkable consequences beyond any reasonable developer and harm any user(s) or people in the process who might be around the product.
+for the moment........
 
-Some mistakes or errors are not big enough to cause enough harm to the surround. A small error might just end at the end of user's browser or on the apps, it might be fixable within a few hours, or the issues might not be significant enough and considered can be completely ignored by the devlopers or can be completely forgotten about since it bared "no physical consequences" for the moment. 
+A small mistake or errors will only cause program to crash, so no consequent at all.
 
-A mild errors or mistake could cause financial lost, to the developer, to the users, to anyone related, to anyone surrounding themselves to the software, or those who are relying on the software. You CAN still "PAY" your way out for those mistakes or fault when you are the source. You might gain some bad reputation in the process. Surely it is a painful experience no one would wants or have to experience and it is a very poor lesson to learn from (and anyone should try their best to avoid before committing those mistakes).
+A mild mistake or errors that make the financial market close down for a day, causing financial loses.
 
-But where such errors does end up as injuries, even death to others, this is not a mistake or error you can easily pay out through finance or from your reputation.  
+A fatal errors, or a deliberate choice, could cause injuries or even death of him or herslf or to its neighbour.
 
-# Programming languages that caused death
+Errors that are foreseeable, an experienced developer shall always tried to avoided them, provide their best solutions as much as possible and as far as possible.
+
+## Programming languages that caused death
+
 I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
 
 Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
@@ -23,11 +26,12 @@ A drug website will always diagnose a forwarding patient to a particular website
 
 Two Boeing Planes crashed together when a potential software error caused the system to fail, killing more than 300 people.
 
-Read Article:-
+### Read Article
+
 - [Bad Bugs: The worst disasters caused by software fails](https://www.newscientist.com/gallery/software-bugs/) From [New Science](https://www.newscientist.com/) Dated: 2013.06.05
 - [6 Reasons legacy systems are still in use](https://www.techtarget.com/searchcio/feature/6-reasons-legacy-systems-are-still-in-use) From [Tech Targert](https://www.techtarget.com/) Dated 2023.07.05
 
-### What contributed to the errors we receiving
+## What contributed to the errors we receiving
 
 We can break it up into the following points:
 
@@ -38,13 +42,13 @@ a fault that the programmer did not comprehend, ignored,
  the original or intended purposes that the programmer did not anticipated 
  or aware of.
 
-- __Mechanical Factor__ : 
+- __Mechanical Factor__ :
 this errors came from the design of the language,
  or the way the scripts is written. It might be because it is a legacy
   programming language, the scripts might have exceeded the original purposes
    or has reached its limitation or has went far beyond than it was anticipated.
 
-- __Natural Phenomena Factor__ : 
+- __Natural Phenomena Factor__ :
 a nuisance that neither caused by human, 
 machines or known facts, but it is such a cause that, 
 such as an Act of God, 
@@ -57,7 +61,7 @@ an overwhelming cold wave occurs that stop the devices from giving correct
 measurement when your scripts are deeply depending on the result of the device 
 and some other devices also are depending to your scripts.
 
-### What can developer do ...
+### What can developer do
 
 You can, as a developer, grow awareness to all those fault 
 that is under your control. 
@@ -65,7 +69,7 @@ DO NOT leave an errors hanging, learn what you can do to opt out from
 those errors. You are an "Engineer", you are suppose to make things work better 
 and be responsible to what you make.
 
-You might also needed to:-
+### You might also needed to
 
 - Check your code, check again, re-check again, again and again. Some mistake are not easy to spot, especially when after hugh efforts and hours has been put into a project.
 
