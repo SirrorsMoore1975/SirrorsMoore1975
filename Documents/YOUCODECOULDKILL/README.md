@@ -10,19 +10,19 @@ for the moment........
 
 A small mistake or errors will only cause program to crash, so no consequent at all.
 
-A mild mistake or errors that make the financial market close down for a day, causing financial loses.
+A mild mistake or errors that make the financial market closed down for a day, causing financial loses.
 
 A fatal errors, or a deliberate choice, could cause injuries or even death of him or herslf or to its neighbour.
 
 Errors that are foreseeable, an experienced developer shall always tried to avoided them, provide their best solutions as much as possible and as far as possible.
 
-## Programming languages that caused death
+## Example that the programming languages that has caused death
 
-I overheard a case online and have me read into it, where a fatal memory error in C has caused a car entering __auto pilot__,  acclerating by itself, crashed the car, killing driver's friend, left driver severe injured, even when the driver did tried all her attempts on pushing hard on the car break [^2].
+A programming language is the source of the fatal error that has caused a car to accelarate even when the driver has pushed hard on the break, leaving tire marks on the road, has find itself no avail on stopping the car, causing fatal death to her driver's friend and the driver herself severy injuried [^2].
 
-Another incident, where a 911 system that ignore calls if the 911 hotline is being called for a number of time within a given period, which happens to have reached the limit and has fatally caused a victim who tries to report a break in to the owner house seeking police aid resulted death. 
+A police emergency phone line system that has set its limits on receiving emergency call, where a house owner has a house break in and was stab to death while the victim trying to seek the phone line aid cannot reach for help due to the system has reached the limit on a single day.
  
-A drug website will always diagnose a forwarding patient to a particular website which sell a particular medicine (for the benefit of the drug company who had hired the DevOp), ignoring the fact that whether the paitent medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
+A drug website will always diagnose a forwarding patient to a particular website which sell a particular medicine (for the benefit of the drug company who had hired the DevOp), ignoring the fact that whether the patient medical history if he/she can or cannot take that medicine, and in result causing a teenage girl death.
 
 Two Boeing Planes crashed together when a potential software error caused the system to fail, killing more than 300 people.
 
@@ -61,7 +61,7 @@ an overwhelming cold wave occurs that stop the devices from giving correct
 measurement when your scripts are deeply depending on the result of the device 
 and some other devices also are depending to your scripts.
 
-### What can developer do
+### What can a developer do
 
 You can, as a developer, grow awareness to all those fault 
 that is under your control. 
@@ -71,15 +71,23 @@ and be responsible to what you make.
 
 ### You might also needed to
 
-- Check your code, check again, re-check again, again and again. Some mistake are not easy to spot, especially when after hugh efforts and hours has been put into a project.
+#### Check your code regularly
 
-- Practice as much as you can while you can when you can. Challenge yourself to difficult problems ahead of time, so that when the real deal came up you will have enough skills to diffuse it quick, fast and accurately.
+check again, re-check again, again and again. Some mistake are not easy to spot, especially when after hugh efforts and hours has been put into a project.
 
-- Accept feedbacks, good one or bad one. Be more on acceptable to opposition voices. We might be relutance to know our faults, but you never know when will those precautions made through those feedbacks or voices you were relutance to hear have saved you.
+#### Practice as much as you can while you can when you can
 
-- Know yourself better. Knowing yourself help you to tackle some habits that could cause you to those mistake. It is a life long lesson that any developer needed to learn. 
+Challenge yourself to difficult problems ahead of time, so that when the real deal came up you will have enough skills to diffuse it quick, fast and accurately.
 
-### You CANNOT fully avoid all faults
+#### Accept feedbacks
+
+Accept feedbacks, good one or bad one. Be more on acceptable to opposition voices. We might be relutance to know our faults, but you never know when will those precautions made through those feedbacks or voices you were relutance to hear have saved you.
+
+#### Know yourself better
+
+Knowing yourself help you to tackle some habits that could cause you to those mistakes. It is a life long lesson that any developer needed to learn.
+
+#### You CANNOT fully avoid all faults
 
 No matter how perfect the application is, there is ought to be an error somewhere. Human nature tends to make us unavoidable to those faults. We don't know everything, you cannot control everything, but this is not an excuse that we can be careless, we can only do what we can do, and we will still end up being responsibilites in the process. Therefore, you must keep learning, accept people feedback and opposition voices, understand that you are not perfect, you cannot control everything and will still make mistake even if you are very careful, but not careless on how you appoach problems at the same time, willing to learn from your mistake, learn from others and gain more experiences, keep trying, never easily give up. Learn from people, learn from history, learn the language pros and cons, study as much as you can. Be more acceptable to new technology, be willing to change or upgrade yourself further.
 
