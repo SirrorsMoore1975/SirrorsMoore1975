@@ -31,7 +31,7 @@ Web app that users can create a virtual diary for the places they went in Japan
 1. Project [[Nobel-Prizes-SM1975](https://github.com/ReONE-SM1975/nobel_prizes_SM1975)]:
 Web app help user to search Nobel Prizes winner, with React and Django
 
-1. Project [[WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)]:
+1. Project [[WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)] (Under Construction):
 Web app trades first or second hand computer parts between users
 
 1. Project [[CLYSE-doc-generator](https://github.com/ReONE-SM1975/CLYSE-doc-generator)]
