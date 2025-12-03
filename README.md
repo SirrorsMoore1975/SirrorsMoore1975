@@ -139,6 +139,26 @@ life as your first step if it is too huge a step to take.
   (30 second reading) and consider aiding GrapheneOS
   to continue their excellent project
 
+    - With `Chat Control` in the EU is getting more political than ever, France
+    authorities are spreading false accusation in their media and threaten arrest
+    and seizures sever of GrapheneOS. French citizen can still use GrapheneOS, but
+    all GrapheneOS operations are now ended in France. The tech `disk encryption` are
+    now considered by some country as `illegal`, if the encryption does not allow
+    backdoor for authorities to get into. Those who has projects that is operating
+    in those countries, like France, are required to provide `forced backdoor` so
+    the authorities can have access to citizens' phone, despite no law has been
+    implemented at the time of _requesting_ and even if the so called backdoor is
+    technologically impossible due to hardware limitation such as the Pixel Phone
+    by design where GrapheneOS is using.
+
+      - See article in [X](https://x.com/GrapheneOS/status/1993128120979951624)
+    by GrapheneOS official, and
+      - other news articles: [ProtonNews](https://proton.me/blog/grapheneos-france),
+      [TheNordictTimes](https://nordictimes.com/tech/grapheneos-exits-france-after-threats-and-smear-campaign/),
+      [PiunikaWeb](https://piunikaweb.com/2025/11/21/grapheneos-criminals-choice-in-france-after-police-fail-to-crack-google-pixel/),
+      [ComplianceHubWiki](https://www.compliancehub.wiki/frances-encryption-war-escalates-grapheneos-exodus-signals-dangerous-precedent-for-open-source-privacy-tech/)
+
+
 - Wanted to get back the control to your computer? Try out
 [[Ubuntu](https://ubuntu.com/)] and
 [[Linux Mint](https://linuxmint.com/)]
