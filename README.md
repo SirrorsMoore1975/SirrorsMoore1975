@@ -139,7 +139,7 @@ life as your first step if it is too huge a step to take.
   (30 second reading) and consider aiding GrapheneOS
   to continue their excellent project
 
-    - With `Chat Control` in the EU is getting more political than ever, France
+  - With `Chat Control` in the EU is getting more political than ever, France
     authorities are spreading false accusation in their media and threaten arrest
     and seizures sever of GrapheneOS. French citizen can still use GrapheneOS, but
     all GrapheneOS operations are now ended in France. The tech `disk encryption` are
