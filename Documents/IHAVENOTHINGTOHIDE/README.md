@@ -1,5 +1,18 @@
 # I HAVE NOTHING TO HIDE
 
+## I have nothing to hide is just a slogan so you give up privacy
+
+__I have nothing to hide, let them search my devices, why should I fear?__ Well, you should.
+
+It is often used by politian or legislators to make you to divert yourself from the protection of privacy, bluring the important of individual privacy, losing the focus that privacy is trying to protect you from, allow authorities to gain more abusive power over individual and let yourself to be living much closer to a dystopian future.
+
+Those who told you nothing to worry might be because:
+- they have not think enough or did not understand what the stack privacy is about; or 
+- that they are under some influence or believe, maybe in the name of justice, that they will be justified, or proven innocent, by being open to the powerful; or 
+- they have received beneficial aids from the authorities to speak good things about their actions; or 
+- they are working in those departments under the powerful influence that they cannot speak against; or
+- they are the one pushing the parliament motions and bills for some he/she only knows reason(s);
+
 __Privacy protect you from living in a dystopian future.__
 
 Privacy are never about hiding something. It protects `your dignity`, `your future freedom`, `your autonomy`, `your digital life safety`, even can be extended to `your physical safety`. `Privacy` is all about `protecting yourself`. It is the basic rights you can have, beyond using certain devices or applications. And it is not a trade off for security or authority protection.
@@ -20,7 +33,7 @@ In some countries, such as `France`, has been actively framing projects such as 
 
 While you are using public, open, no law prohibited, open-sourced applications scripts or codes, you find yourself being targeted and are treated like you are a criminal (not even a suspect before charged guilty by a law court).
 
-The the Co-Founder of the application of crypto currencies `Samourai Wallet` has been imprisoned only because he developed a privacy tool for crypto currencies and was treated like he is part of the money laundering that the criminal used. He fighted and did everything he could in court to clear his name, and he did __NOTHING__ wrong, hitting the right note and has never pleaded guilty, the court ignored the laws and the rules lied down in the country and ignored the evidence in front of the court and still hand down verdict of guilty and has sentence imprisonment him. The rules are that *you needed to be involved into the crime, not because you are merely creating a tool*. See [the interview](https://www.youtube.com/watch?v=Fshsk8MCAf4&t=885s){:target="_blank"} before he is imprisoned.
+The the Co-Founder of the application of crypto currencies `Samourai Wallet` has been imprisoned only because he developed a privacy tool for crypto currencies and was treated like he is part of the money laundering that the criminal used. He fighted and did everything he could in court to clear his name, and he did __NOTHING__ wrong, hitting the right note and has never pleaded guilty, the court ignored the laws and the rules lied down in the country and ignored the evidence he put in front of the court and still hand down verdict of guilty and has sentenced him imprisonment for 5 years. The rules are that *you needed to be participated into the crime, not because you are just merely involved in creating a tool the criminal is using*. See [the interview](https://www.youtube.com/watch?v=Fshsk8MCAf4&t=885s){:target="_blank"} before he is imprisoned.
 
 A former young data analyst who worked for the government intelligent has fled from his home country only because he realized the country has been secretly invading the public privacy of the entire planet through TVs, monitors and phones without the user consent or law court order. He is still a wanted fugitive by the government for exposing the secret operation on individual privacy.
 
@@ -32,10 +45,7 @@ Chat Control in the EU has not going away, despite EU citizens has raise concern
 - Can we shutdown the entire beer manufacture because someone get drunk and start killing people?
 - Do we get rid of any kitchen knife when someone used it to murder people?
 
-## I have nothing to hide is just a slogan so you give up privacy
+Situation where the political decision and make law into a weapon do existed. See how the Parliament Act 1911 are threaten if he did not agree and sign to give up his sovereignty power, he will be trialed by 400 juries that favour the political party. 
 
-__I have nothing to hide, let them search my devices, why should I fear?__ Well, you should.
-
-It is often used by politian or legislators to make you to divert yourself from the protection of privacy, bluring the important of individual privacy, losing the focus that privacy is trying to protect you from, allow authorities to gain more abusive power over individual and let yourself to be living much closer to a dystopian future. 
 
 Privacy is NOT about hiding something.
