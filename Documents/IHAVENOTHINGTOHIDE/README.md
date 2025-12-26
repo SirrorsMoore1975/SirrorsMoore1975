@@ -39,7 +39,7 @@ A former young data analyst who worked for the government intelligent has fled f
 
 Australia are now restricting any person below the age of 16 to use a list of applications and soical media so that harmful contents are not reached by the teenages, but somehow the controversial `DISCORD` and `Roblox` which are somehow not included.
 
-Chat Control in the EU has not going away, despite EU citizens has raise concern and debated. The officers and authorities are exempted from it.
+Chat Control, VPN and crypto currencies targeted in the EU has not going away, despite public has raise concern and debated. Decentralizing tools are often targeted. Developers has to lower their standard of privacy to avoid jail or fine. 
 
 - Can we shutdown the entire car industries because a car knock down and killed people?
 - Can we shutdown the entire beer manufacture because someone get drunk and start killing people?
