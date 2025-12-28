@@ -2,7 +2,7 @@
 
 ## I have nothing to hide is just a slogan so you give up privacy
 
-__I have nothing to hide, let them search my devices, why should I fear?__ Well, you should.
+__I have nothing to hide, let them search my devices, justice is by my side, why should I fear?__ Well, you should.
 
 It is often used by politian or legislators to make you to divert yourself from the protection of privacy, bluring the important of individual privacy, losing the focus that privacy is trying to protect you from, allow authorities to gain more abusive power over individual and let yourself to be living much closer to a dystopian future.
 
@@ -19,7 +19,7 @@ Privacy are never about hiding something. It protects `your dignity`, `your futu
 
 When you allow your device being scanned without any protection, you essentially allow your life to become open to anyone to explore. A stranger will know your daughter. Your data will be sold openly. Your face will be used to frame to something you never did. Your money will not be yours anymore.
 
-Privacy allow you to stay in control to your digital freedom, allow you have free throught and expression. Live free is essential for creativity. Without it, you are just authorities puppets. You lost your rights to speak up. When you are in pain you cannot yell. When you are hungry you are not allow to say it. You wanted to say something in the social media? You post will be gone and you are likely being interviewed by someone to not to speak or never be seen again. You will be required by law to surrender, comply to the law and do as the authorities pleased. Anyone who has woke up and speak up, others will be calling you nonsense, or to keep you quiet to avoid troubles on themselves.
+Privacy allow you to stay in control to your digital freedom, allow you to have free throught and free expression without fear. Live free is essential for creativity. Without it, you are just the authorities' puppet. You lost your rights to speak up. No one can try to question, scrutinize, seek for informations that the authorities do not willing to answer, cooperate or shares those information. Those who speak up might be put away or silenced. When you are in pain you cannot yell. When you are hungry you are not allow to say it. You wanted to speak up something in the social media for your justice? Your post will be gone and you are likely being interviewed by someone to not to speak or never be seen again. You will be required by law to surrender, comply to the law and only do things the authorities pleased. Anyone who has woke up and speak up, others will be calling you nonsense, or to keep you quiet to avoid troubles on themselves. When you seek help, others will not help you. When you try to protest, you are taken down before you even try to start.
 
 ## The Unhackable Phone incident
 
@@ -39,7 +39,7 @@ A former young data analyst who worked for the government intelligent has fled f
 
 Australia are now restricting any person below the age of 16 to use a list of applications and soical media so that harmful contents are not reached by the teenages, but somehow the controversial `DISCORD` and `Roblox` which are somehow not included.
 
-Chat Control, VPN and crypto currencies targeted in the EU has not going away, despite public has raise concern and debated. Decentralizing tools are often targeted. Developers has to lower their standard of privacy to avoid jail or fine. 
+`Chat Control`, `VPN` and `Crypto Currencies` targeted in the EU has not going away, despite public has raise concern and debated. Decentralizing tools and encrypted messengers are often targeted by the government. Developers has to lower their standard of privacy to avoid being targeted, jailed or fined, like some France projects `/e/OS`, `Murena` and `Fairphone`.
 
 - Can we shutdown the entire car industries because a car knock down and killed people?
 - Can we shutdown the entire beer manufacture because someone get drunk and start killing people?
