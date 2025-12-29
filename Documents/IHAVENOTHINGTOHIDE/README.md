@@ -8,7 +8,7 @@ Well, you should.
 
 This argument or slogan is often used by politian or legislators to divert yourself from the important protection of privacy, bluring and losing the focus that privacy is trying to protect you from, allowing authorities to gain more abusive power over individual and let yourself to be living much closer to a dystopian future.
 
-Privacy is not a trade off for security. It is not about proven your innocent either. The authority only care if they convict any targets they believed that is in breach of their law. Your innocent are not justice to the authority. Your conviction is their version of justice that they want to present it to the public.
+Privacy is not a trade off for security. Allowing private data to be opened does not proven your innocent either. The authority only care if they convict any targets they believed that is in breach of their law. Your innocent are not justice to the authority. Your conviction is their version of justice that they want to present it to the public.
 
 If I cannot stress that enough already, __privacy is about protecting yourself__.
 
@@ -17,7 +17,7 @@ Those who keep telling you that you have nothing to worry about might be because
 - that they are under some influence or believe, maybe in the name of justice, that they will be justified, or proven innocent, by being open to the powerful; or 
 - they have received beneficial aids, where their interest originated, from the authorities to speak good things about their actions; or 
 - they are working in those departments under the powerful influence that they cannot speak against, it could be legal, financial or political pressure; or
-- they are the one who is pushing the parliament motions and bills for some he/she only knows reason(s);
+- they are the one behind who is pushing the parliament motion, the bill, the policy, etc., for some he/she only knows reason(s);
 
 __Privacy protect you from living in a dystopian future.__
 
@@ -25,7 +25,7 @@ Privacy are never about hiding something. It protects `your dignity`, `your futu
 
 When you allow your device being scanned without any protection, you essentially allow your life to become open to anyone to explore. A stranger will know your daughter. Your data will be sold openly. Your face will be used to frame to something you never did. Your money will not be yours anymore.
 
-Privacy allow you to stay in control to your digital freedom, allow you to have free throught and free expression without fear. 
+Privacy allow you to stay in control to your digital freedom, allow you to have free throught and free expression without fear.
 
 ## Why is Live Free important
 
