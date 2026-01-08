@@ -2,7 +2,7 @@
 
 I have nothing to hide.
 
-[Go Back](../../README.md)
+[[Go Back](../../README.md)]
 
 ## It is just a slogan so you give up privacy
 
@@ -172,3 +172,5 @@ totally legal and did not involved into any crime?
 If you said you don't care about privacy, it is the same saying you
 don't care about free speech, and you are giving up all your freedom.
 Privacy is no about hiding something, it is a power to keep you free.
+
+[[Go Back](https://github.com/SirrorsMoore1975)]
