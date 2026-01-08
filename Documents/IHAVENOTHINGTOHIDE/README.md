@@ -58,9 +58,10 @@ authority protection.
 
 When you allow your device being scanned without any protection, you
 essentially allow your life to become open to anyone to explore. A stranger
-will know your daughter. Your data will be sold openly. Your face will be
-used to frame to something you never did. Your money will not be yours
-anymore.
+will know your daughter, your love one, or someone you care a lot.
+Your messages about a popular figure will be opened to everyone to see.
+Your data will be sold openly. Your face will be used to frame to something you
+never did. Your money will not be yours anymore.
 
 Privacy allow you to stay in control to your digital freedom, allow you to
 have free thought and free expression without fear.
@@ -69,10 +70,10 @@ have free thought and free expression without fear.
 
 Live free is essential for creativity. Without it, you are just the
 authorities' puppet. You lost your rights to speak up. No one can try to
-question, scrutinize, seek for information that the authorities not pleased,
-do not willing to answer, not willing to cooperate or not willing to share
-those information. Those who speak up might be put away, threaten, beaten up
-or silenced. When you are in pain you cannot yell. When you are hungry you
+question, scrutinize an authority, seek for information that the authorities
+not pleased, do not willing to answer, not willing to cooperate or not willing to
+share those information. Those who speak up might be put away, threaten, beaten
+up or silenced. When you are in pain you cannot yell. When you are hungry you
 are not allow to say it. You wanted to speak up something in the social media
 for your justice? Your post will be gone and you are likely being interviewed
 by someone to not to speak or never be seen again. You will be required by
@@ -80,7 +81,8 @@ law to surrender, comply to the law and only do things the authorities
 pleased. Anyone who has woke up and speak up, others will be calling you
 nonsense, or to keep you quiet to avoid troubles on themselves. When you seek
 help, others will not help you. When you try to protest, you are taken down
-before you even try to start.
+before you even try to start. You will self-censor yourself and cannot complain
+at all, because when you do, beside arrest, you or your love one will be in danger.
 
 ## The Unhackable Phone incident
 
@@ -147,3 +149,9 @@ killed people?
 start killing people?
 - Do we get rid of any kitchen knife or cutter blades when someone used it to
 murder people?
+
+## Final message
+
+If you are a developer, do not join the camp that is engage with the privacy invasion or censorship. Big tech uses reason(s) such as for your __user experience__ to collect a ton of data from the user, and later was used for selling those data to third parties for targeted accurate advertise individual (profiling an individual personal ID, ring any bell?). When one tech company can collect this amount of data, the risk of being hacked and leaked those data are enomous.
+
+Criminal hiding behind privacy used it as their sheild should be shameful of themselves, you cannot catch them all. But would you rather any innocent person are being convicted, run the justice that the authority wanted, so you go to prison for a simple complain (or for developing an application that is totally legal)?
