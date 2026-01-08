@@ -1,5 +1,9 @@
 # I HAVE NOTHING TO HIDE
 
+I have nothing to hide.
+
+[Go Back](../../README.md)
+
 ## It is just a slogan so you give up privacy
 
 > __I have nothing to hide, so there is nothing to fear.__
@@ -21,7 +25,7 @@ that they want to present it to the public.
 If I cannot stress that enough already, __privacy is about protecting yourself__,
 __protect free thought and freedom of expression__.
 
-Those who keep telling you that you have nothing to worry about might be because:
+Those who keep telling you that __you have nothing to worry about__ might be because:
 
 - they have not think enough or did not understand what the stack privacy is
 about; or
@@ -30,22 +34,22 @@ justice, that they will be justified, or proven innocent, by being open to
 the powerful; or
 - they have received beneficial aids, where their interest originated, from
 the authorities to speak good things about their actions; or
-- they are working in those departments under the powerful influence that
-they cannot speak against, it could be legal, financial or political pressure; or
+- they are working under the powerful influence that they cannot speak
+against, it could be legal, financial or political pressure,
+it can also be a pressure from some unacceptable moral, such as
+being held hostage of their love one; or
 - they are the one behind who is pushing the parliament motion, the bill, the
 policy, etc., for some he/she only knows reason(s);
 
-If you are still not convinced, how about this:
+If you are still not convinced, how about an officer on street tell you this:
 
-> __Since you have nothing to hide, then show all your data on your social__
-__media, your phone, your private email, provide the authority everything__
-__for your innocent.__
->
-> __Since there is nothing to hide, can I see your phone right now and unlocked__
-it?__
+> __Since there is nothing to hide, show me your phone right now and unlocked__
+__it?__
 
 All of a suddenly, you care about privacy because it is your messages, your photos
-and your history, opened up to the public to see, it is now in someone else hand.
+and your history, opened up to the public and authority to see, it is
+now in someone else hand, free from their interpretation imaginable on
+how wicked you are, no matter how innocent your private seems to be.
 
 ## __Privacy protect you from living in a dystopian future.__
 
@@ -133,8 +137,9 @@ are just ignored or interpreted otherwise.
 Australia are now restricting any person below the age of 16 to use a list of
 applications and social media so that harmful contents are not reached by the
 teenagers, but somehow the controversial `DISCORD` and `Roblox` which are
-somehow not included. This make commentator question was it about protect
-children or censor those platform the authority did not like.
+__privacy and child safety concerning__, they are
+somehow not included. This make commentator questioning, was it about protecting
+children, or is it about censor those platform the authority did not like?
 
 `Chat Control`, `VPN` and `Crypto Currencies` targeted in the EU are not
 going away, despite public raise concern and debated constantly.
@@ -142,16 +147,28 @@ Decentralizing tools and encrypted messengers are often targeted by the
 government. Developers has to lower their standard of privacy to avoid being
 targeted, jailed or fined, like some projects: `/e/OS`, `Murena` and
 `Fairphone`.
+In December 2025, `GrapheneOS` has to leave France because they
+refused (or it is impossible to do so due to device limits) to lower
+their privacy standard.
 
 - Can we shutdown the entire car industries because a car knock down and
 killed people?
 - Can we shutdown the entire beer manufacture because someone get drunk and
 start killing people?
 - Do we get rid of any kitchen knife or cutter blades when someone used it to
-murder people?
+injure or murder people?
 
 ## Final message
 
-If you are a developer, do not join the camp that is engage with the privacy invasion or censorship. Big tech uses reason(s) such as for your __user experience__ to collect a ton of data from the user, and later was used for selling those data to third parties for targeted accurate advertise individual (profiling an individual personal ID, ring any bell?). When one tech company can collect this amount of data, the risk of being hacked and leaked those data are enomous.
+If you are a developer, do not join the camp that is actively engage with the privacy
+invasion or censorship. And, be safe.
 
-Criminal hiding behind privacy used it as their sheild should be shameful of themselves, you cannot catch them all. But would you rather any innocent person are being convicted, run the justice that the authority wanted, so you go to prison for a simple complain (or for developing an application that is totally legal)?
+Criminal hiding behind privacy used it as their shield should be shameful of
+themselves. But would you rather any innocent persons / developers are being
+convicted, run the justice that only the authority wanted, so you / someone go to
+prison for doing nothing wrong, such as for developing an application that is
+totally legal and did not involved into any crime?
+
+If you said you don't care about privacy, it is the same saying you
+don't care about free speech, and you are giving up all your freedom.
+Privacy is no about hiding something, it is a power to keep you free.
