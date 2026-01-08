@@ -2,14 +2,14 @@
 
 ## It is just a slogan so you give up privacy
 
-> __I have nothing to hide, let them search my devices, justice is by my side, why should I fear?__ 
+> __I have nothing to hide, so there is nothing to fear.__
 
 Well, you should.
 
-This argument or slogan is often used by politian or legislators to divert
-yourself from the important protection of privacy, blurring and losing the
-focus that privacy is trying to protect you from, allowing authorities to
-gain more abusive power over individual and let yourself to be living much
+This argument or slogan is often used by government, politian, legislators or big
+tech to divert those from the important protection of privacy, blurring and
+losing the focus that privacy is trying to protect you from, allowing authorities
+to gain more abusive power over individual and let yourself to be living much
 closer to a dystopian future.
 
 Privacy is not a trade off for security. Allowing private data to be opened
@@ -18,7 +18,8 @@ any targets they believed that is in breach of their law. Your innocent are
 not justice to the authority. Your conviction is their version of justice
 that they want to present it to the public.
 
-If I cannot stress that enough already, __privacy is about protecting yourself__.
+If I cannot stress that enough already, __privacy is about protecting yourself__,
+__protect free thought and freedom of expression__.
 
 Those who keep telling you that you have nothing to worry about might be because:
 
@@ -34,7 +35,19 @@ they cannot speak against, it could be legal, financial or political pressure; o
 - they are the one behind who is pushing the parliament motion, the bill, the
 policy, etc., for some he/she only knows reason(s);
 
-__Privacy protect you from living in a dystopian future.__
+If you are still not convinced, how about this:
+
+> __Since you have nothing to hide, then show all your data on your social__
+__media, your phone, your private email, provide the authority everything__
+__for your innocent.__
+>
+> __Since there is nothing to hide, can I see your phone right now and unlocked__
+it?__
+
+All of a suddenly, you care about privacy because it is your messages, your photos
+and your history, opened up to the public to see, it is now in someone else hand.
+
+## __Privacy protect you from living in a dystopian future.__
 
 Privacy are never about hiding something. It protects `your dignity`,
 `your future freedom`, `your autonomy`, `your digital life safety`,
@@ -50,15 +63,15 @@ used to frame to something you never did. Your money will not be yours
 anymore.
 
 Privacy allow you to stay in control to your digital freedom, allow you to
-have free throught and free expression without fear.
+have free thought and free expression without fear.
 
 ## Why is Live Free important
 
 Live free is essential for creativity. Without it, you are just the
 authorities' puppet. You lost your rights to speak up. No one can try to
-question, scrutinize, seek for informations that the authorities not pleased,
+question, scrutinize, seek for information that the authorities not pleased,
 do not willing to answer, not willing to cooperate or not willing to share
-those informations. Those who speak up might be put away, threaten, beaten up
+those information. Those who speak up might be put away, threaten, beaten up
 or silenced. When you are in pain you cannot yell. When you are hungry you
 are not allow to say it. You wanted to speak up something in the social media
 for your justice? Your post will be gone and you are likely being interviewed
@@ -73,7 +86,7 @@ before you even try to start.
 
 On or about 2024 emergence the `unhackable phone` which notoriously known as
 the criminals goes to phone for criminal to avoid being tracked by the
-government or the law enforcement. Forces in `Belgium`, `France` and 
+government or the law enforcement. Forces in `Belgium`, `France` and
 `the Netherland` has infiltrated and decoded messages of the unhackable phone.
 
 With the success in fighting organized crime via the infiltration, this
@@ -116,8 +129,8 @@ individual privacy. The local Constitution that protect individual privacy
 are just ignored or interpreted otherwise.
 
 Australia are now restricting any person below the age of 16 to use a list of
-applications and soical media so that harmful contents are not reached by the
-teenages, but somehow the controversial `DISCORD` and `Roblox` which are
+applications and social media so that harmful contents are not reached by the
+teenagers, but somehow the controversial `DISCORD` and `Roblox` which are
 somehow not included. This make commentator question was it about protect
 children or censor those platform the authority did not like.
 
