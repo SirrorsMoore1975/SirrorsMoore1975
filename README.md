@@ -55,9 +55,8 @@ Contact me through:-
 [<a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank">
 Profile </a>]
 1. See how I did in CodeWars
-[ [Moore0724](https://www.codewars.com/users/Moore0724) ]
-
- ![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)
+[ [Moore0724](https://www.codewars.com/users/Moore0724) ] 
+  [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
 
 ## Hobbies
 
@@ -122,6 +121,9 @@ do during trail.
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green)
+
+[![CODEWARS](https://github.r2v.ch/codewars?user=Moore0724&hide_clan=true&top_languages=true)
+](https://www.codewars.com/users/Moore0724)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=sirrorsmoore1975)
 
