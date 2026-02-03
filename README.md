@@ -55,8 +55,9 @@ Contact me through:-
 [<a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank">
 Profile </a>]
 1. See how I did in CodeWars
-[<a href="https://www.codewars.com/users/Moore0724" target="_blank">
- Moore0724 </a>]
+[ [Moore0724]("https://www.codewars.com/users/Moore0724") ]
+
+ ![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)
 
 ## Hobbies
 
