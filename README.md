@@ -123,7 +123,7 @@ do during trail.
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SirrorsMoore1975&theme=blue-green)
 
-[![GithubCard.com](https://githubcard.com/sirrorsmoore1975.svg?d=nj0-PWuU)](https://githubcard.com)
+[![GithubCard.com](https://githubcard.com/sirrorsmoore1975.svg?d=7EaLVge9)](https://githubcard.com)
 
 [![GithubCard.com](https://githubcard.com/sirrorsmoore1975.svg?d=nj0-PWuU)](https://githubcard.com)
 
