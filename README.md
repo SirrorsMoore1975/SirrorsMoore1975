@@ -119,9 +119,15 @@ do during trail.
 
 ## Status
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sirrorsmoore1975&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SirrorsMoore1975&show_icons=true)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirrorsmoore1975&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SirrorsMoore1975&theme=blue-green)
+
+[![GithubCard.com](https://githubcard.com/sirrorsmoore1975.svg?d=nj0-PWuU)](https://githubcard.com)
+
+[![GithubCard.com](https://githubcard.com/sirrorsmoore1975.svg?d=nj0-PWuU)](https://githubcard.com)
+
+[![GithubCard.com](https://githubcard.com/sirrorsmoore1975.svg?d=nShaCFIL)](https://githubcard.com)
 
 [![CODEWARS](https://github.r2v.ch/codewars?user=Moore0724&hide_clan=true&top_languages=true)
 ](https://www.codewars.com/users/Moore0724)
