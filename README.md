@@ -18,32 +18,32 @@ I am __Chadwick__. I'm a __Fullstack Software Engineer__
 ## Team Projects
 
 1. Project [[Oriori](https://github.com/OriOri-CCP7/oriori)]:
-Web application tracking Japan seasonal and regional goods
+
+    Web application tracking Japan seasonal and regional goods
 
 1. Project [[SakuraSignal](https://github.com/Phone-Review-App/SakuraSignal)]:
-Web app that allow users to give feedbacks and reviews to the Japan Phone Carriers.
+
+    Web app that allow users to give feedbacks and reviews to the Japan Phone Carriers.
 
 1. Project [[KenKen-PA](https://github.com/Phone-Review-App/ccp7-legacy-week)]:
-Web app that users can create a virtual diary for the places they went in Japan
+
+    Web app that users can create a virtual diary for the places they went in Japan
 
 ## Personal Projects
 
 1. Project [[Nobel-Prizes-SM1975](https://github.com/ReONE-SM1975/nobel_prizes_SM1975)]:
-Web app help user to search Nobel Prizes winner, with React and Django
+
+    Web app help user to search Nobel Prizes winner, using `React` and `Django`
 
 1. Project [[WEE-Trade](https://github.com/SirrorsMoore1975/WEE-Trade)] (Under Construction):
-Web app trades first or second hand computer parts between users
 
-1. Project [[CLYSE-doc-generator](https://github.com/ReONE-SM1975/CLYSE-doc-generator)]
-(Under Construction):
-An app aim to aid doc drafman to avoid input data typo, such as
-name, DoB, alias name, other miscellaneous data
+    A Web app to trades first or second hand computer parts between users
 
 ## Self Learning Exercise
 
 1. Project [[Python_Exercise_Basic_Conditions](https://github.com/SirrorsMoore1975/SM1975-python-exercise-basic-conditions)]:
-A python exercise for self learning plus pytest tdd and some personal shell
-scripting (may add branches for solution and answer later)
+
+    A python exercise for self learning, test with __test-driven-development__ (`TDD`) via `pytest` & my answers in the `solution-branch`.
 
 ## Contact
 
@@ -57,7 +57,7 @@ Profile </a>]
 1. See how I did in CodeWars
 [ [Moore0724](https://www.codewars.com/users/Moore0724) ]
 
-  [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
+    [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
 
 ## Hobbies
 
@@ -98,6 +98,10 @@ and see what you, as a developer, can do.
 What could go wrong on some failing code, causing a software glitch, unintented
 misbehavior or a malfunction to your code? Read [[Your Code Could Kill](./Documents/YOUCODECOULDKILL/README.md)]
 so you never take this lightly.
+
+### I Have Nothing To Hide
+
+>`I have nothing to hide. Then, there is nothing to fear.` [[...](./Documents/IHAVENOTHINGTOHIDE/README.md)]
 
 ### How To Install Postgres and run it on Linux
 
@@ -169,7 +173,7 @@ life as your first step if it is too huge a step to take.
       [ComplianceHubWiki](https://www.compliancehub.wiki/frances-encryption-war-escalates-grapheneos-exodus-signals-dangerous-precedent-for-open-source-privacy-tech/)
 
 
-- Wanted to get back the control to your computer? Try out
+- Wanted to get back the control to your computer? Try out beginner friendly
 [[Ubuntu](https://ubuntu.com/)] and
 [[Linux Mint](https://linuxmint.com/)]
 for a smooth transition from your traditional priorietary OS.
