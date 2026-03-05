@@ -16,8 +16,6 @@ Instead of you are in control of your android phone, `Google` become the judge f
 
 > ... __all__ apps from non-registered developers __will be blocked__ once their lock-down goes into effect.
 
-[![keepandroidopen](keepandroidopen.org/banner)](keepandroidopen.org)
-
 ## Reference
 
 [Keep Android Open Homepage](keepandroidopen.org)
