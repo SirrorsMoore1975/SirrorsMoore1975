@@ -12,7 +12,9 @@ control to what can and cannot install inside your android device.
 
 ## Why is the move striping down freedom
 
-Instead of you are in control of your android phone, `Google` become the judge for what can or cannot install inside your phone. They decide what is risky
+Instead of you are in control of your android phone, `Google`
+ become the judge and gatekeeper for what can or cannot install
+  inside your phone.
 
 > ... __all__ apps from non-registered developers __will be blocked__ once their lock-down goes into effect.
 
