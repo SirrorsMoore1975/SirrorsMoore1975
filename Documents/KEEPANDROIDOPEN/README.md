@@ -14,7 +14,10 @@ cannot install inside your android device, and reduce use of custom ROMs, monopo
 Time is running out. The communities needed developers and users
 attention and support like never before.
 
-### Why is the move striping down freedom
+### update
+`Google` on or about 19 March 2026 has a questionable back down of the requirements for registered and verified developers. If anyone would want to install side-loading applications, a 24 Hours of waiting period must first be expired before you can use the side-loading app to prevent what they referred as __malicious applications__ that may harm users financially from installing to your phone. It is a one-time device per-enable, and that Android-Debug-Bridge (`ADB`) installation are not affected by this flow. This questionable back down is still adding frictions to legitimate open sources software developments affecting the freedom to the choice of software. `Google` is still in control of your device. All apps will still be blocked on September 2026 if their demand of the verified developers' applications are not meet. Apps such as `F-Droid` are still affected by the decision.
+
+## Why is the move striping down freedom
 
 Instead of you are in control of your own physical Android phone, 
 `Google` become the judge and gatekeeper of your phone and decide
@@ -34,7 +37,7 @@ the block.
 
 > ... __all__ apps from non-registered developers __will be blocked__ once their lock-down goes into effect.
 
-### What can you do
+## What can you do
 
 ### DO
 
