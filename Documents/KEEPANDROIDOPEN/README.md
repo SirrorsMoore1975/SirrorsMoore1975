@@ -56,9 +56,11 @@ the block.
 
 They are fruiting from the benefits of the FOSS and grow into something like `Apple` which monopoly and siding for company benefit. Android is and always has been free and open. The deadline marked the death of users privacy and security while using Android. They are using their position to make you to comply so that you give up those rights.
 
+## When this become big tech common practice
+
 When one brand following the trends, every other brands will follow. 
 
-`Samsung` has also become more restrictive on blocking bootloader access after Galaxy S10. It will not be a surprise if `Samsung` following what `Google` or `Apple` did.
+
 
 ## Reference
 
