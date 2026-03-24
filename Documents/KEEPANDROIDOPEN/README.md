@@ -54,12 +54,23 @@ the block.
 - side with `Google` and following their campaign.
 - joining `Google` to bully those do not comply, such as helping `Google` to detect those applications where developers did not comply.
 
-They are fruiting from the benefits of the FOSS and grow into something like `Apple` which monopoly and siding for company benefit. Android is and always has been free and open. The deadline marked the death of users privacy and security while using Android. They are using their position to make you to comply so that you give up those rights.
+They are fruiting from the benefits of the FOSS ecosystem and grow into something like `Apple` which monopoly and siding for company benefit. Android is and always has been free and open. The deadline marked the death of users privacy and security while using Android. They are using their position to make you to comply so that you give up those rights and in the process you should choice only to use their software.
 
-## When this become big tech common practice
+Applications developers will only wants their apps work on your Android device, especially government provided applications. Any changed custom ROM will be seen by those applications or developers as malware or altered ROM so that they ban you from using their apps. When the custom ROM once build under an open, privacy and security focused environment, has now required to provide their project customized ROM to be competing to a hidden not open system, how can the custom ROM developers continue to provide you with a free, open, private and security concern that has communities scrutiny and watching it closely?
 
-When one brand following the trends, every other brands will follow. 
+## Why Android has protected your freedom and how it has moved away
 
+Android Open Sources Project (`AOSP`) aims to protect your digit freedom, when our phone become part of our life, such as shopping, finance, banking, verification (again, such as countries required verification of VISA before arrival), medical data, ordering foods, etc.. The phone you carry around will have tons of your informations. Whether you truly own your phone become essential.
+
+`ASOP` is aimed for openness, so that everyone can see and say and even contributes to the code. Many well known brands built their system using `AOSP`, such as Samsung's `One UI`, Amazon `Fire OS`, One Plus' `OxygenOS`. The tools that build `ASOP` are mainly on Linux and via `Git`. It relied heavily with the Linux Kernel for building their projects.
+
+At around 2025, `Google` changed the decision to provide any info, such as hardware device-tree after Android 15. This make developers such as `GrapheneOS` become harder because without given the device-tree, developers has to blind guess what the device-tree looks like, and based on their guess from Android 15 to create their customized system for further down Android version that will come. This also meant custom ROM developers will face hardship on trying to provide update or just trying to maintain their ROM. Imagine a banking applications required Android 18 from Google to run, when your custom ROM could not meet with the requirement and has only made available at Android 17. Do I needed to spell out what is going on here?
+
+In August 2025, Google further lock-down their requirement for applications must be from a registered developers or else the applications will be in lock-down and cannot be used by September 2026.
+
+Criticism over this decision has cause `Google` to give the questionable back down decision on 19 March 2026. For side-loading applications without a developer registered, you have a one-timed 24-hrs windows before you can activate the application. However, it still meant that on that day, your side-loaded non-registered developers app will be at lock-down when that day hit, until you activate the one-timed 24 hours options at Android developer mode. `Google` claim that they are not taking away side-loading freedom, but 
+
+`ASOP` is implemented by Google, originally to compete `Apple`. When `Google` decided to add __hidden__, __required__, __mandatory__ (i.e. __proprietary__) apps that is essential for it to be called `Android`, `Android` should be spelled `Apple`. It is still __free__ to use but in the concept of developing in private mode, and developing it become harder. Soon or later, when custom ROM become unmaintainable, everyone will be forced to switch back to a supported system which `Google` verified.
 
 
 ## Reference
@@ -67,3 +78,4 @@ When one brand following the trends, every other brands will follow.
 [Keep Android Open Homepage](keepandroidopen.org)
 
 [Keep Android Open Open Letter](keepandroidopen.org/openletter)
+
