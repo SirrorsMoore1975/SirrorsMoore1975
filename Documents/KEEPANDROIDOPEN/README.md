@@ -19,6 +19,8 @@ attention and support like never before.
 
 ## Why is the move striping down freedom
 
+First of all, `Google` collecting your data for their service for security original is a secure way to protect the user when using their service such as gmail or google authentication. Set aside building user profile for target advertise which introduce security risk, collecting user data by itself whether in a secure way or not is already introducing security risk that could potentially cause harm to all of their user. Many countries users are still unaware or are ignorance to the risks, in the name of convenience and continue to let themselves to be depended on `Google` service. Many developers relied on Google as they provided free services for their projects or products so that they can make a living or income to feed their family. No one should be blamed merely using Google services. However, the user are innocent when they use your apps that needed `Google` services.
+
 Instead of you are in control of your own physical Android phone, 
 `Google` become the judge and gatekeeper of your phone and decide
  what can or cannot be installed inside your phone. Side-loading
@@ -36,6 +38,9 @@ not be working on a regular `Android` device when `Google` implement
 the block.
 
 > ... __all__ apps from non-registered developers __will be blocked__ once their lock-down goes into effect.
+
+`GrapheneOS` which sandbox all applications, concern privacy and security of its users, has not been deemed by `Google` to receive earlier update to Android like Samsung or Amazon do. 
+
 
 ## What can you do
 
