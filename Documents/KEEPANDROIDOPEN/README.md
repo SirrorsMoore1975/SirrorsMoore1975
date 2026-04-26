@@ -15,11 +15,32 @@ Time is running out. The communities needed developers and users
 attention and support like never before.
 
 ### update
-`Google` on or about 19 March 2026 has a questionable back down of the requirements for registered and verified developers. If anyone would want to install side-loading applications, a 24 Hours of waiting period must first be expired before you can use the side-loading app to prevent what they referred as __malicious applications__ that may harm users financially from installing to your phone. It is a one-time device per-enable, and that Android-Debug-Bridge (`ADB`) installation are not affected by this flow. This questionable back down is still adding frictions to legitimate open sources software developments affecting the freedom to the choice of software. `Google` is still in control of your device. All apps will still be blocked on September 2026 if their demand of the verified developers' applications are not meet. Apps such as `F-Droid` are still affected by the decision.
+`Google` on or about 19 March 2026 has a questionable back down of the requirements
+for registered and verified developers. If anyone would want to install side-loading applications,
+a 24 Hours of waiting period must first be expired before you can use the side-loading
+app to prevent what they referred as __malicious applications__ that may harm users
+financially from installing to your phone. It is a one-time device per-enable, and
+that Android-Debug-Bridge (`ADB`) installation are not affected by this flow.
+This questionable back down is still adding frictions to legitimate open
+sources software developments affecting the freedom to the choice of software.
+`Google` is still in control of your device. All apps will still be blocked
+on September 2026 if their demand of the verified developers' applications
+are not meet. Apps such as `F-Droid` are still affected by the decision.
 
 ## Why is the move striping down freedom
 
-First of all, `Google` collecting your data for their service for security original is a secure way to protect the user when using their service such as gmail or google authentication. Set aside building user profile for target advertise which introduce security risk, collecting user data by itself whether in a secure way or not is already introducing security risk that could potentially cause harm to all of their user. Many countries users are still unaware or are ignorance to the risks, in the name of convenience and continue to let themselves to be depended on `Google` service. Many developers relied on Google as they provided free services for their projects or products so that they can make a living or income to feed their family. No one should be blamed merely using Google services. However, the user are innocent when they use your apps that needed `Google` services.
+First of all, `Google` collecting your data for their service for security,
+the original intention is surely aimed for a secure way to protect the user
+when using their service such as gmail or google authentication. Set aside
+building user profile for target advertise which introduce security risk,
+collecting user data by itself whether in a secure way or not is already introducing
+security risk that could potentially cause harm to all of their user. Many countries
+users are still unaware or are ignorance to the risks, in the name of convenience and
+continue to let themselves to be depended on `Google` service. Many developers relied
+on Google as they provided free services for their projects or products so that they
+can make a living or income to feed their family. No one should be blamed merely
+using Google services. However, the user are innocent when they use your apps
+that needed `Google` services.
 
 Instead of you are in control of your own physical Android phone, 
 `Google` become the judge and gatekeeper of your phone and decide
@@ -39,7 +60,8 @@ the block.
 
 > ... __all__ apps from non-registered developers __will be blocked__ once their lock-down goes into effect.
 
-`GrapheneOS` which sandbox all applications, concern privacy and security of its users, has not been deemed by `Google` to receive earlier update to Android like Samsung or Amazon do. 
+`GrapheneOS` which sandbox all applications, concern privacy and security of its users,
+has not been deemed by `Google` to receive earlier update to Android like Samsung or Amazon do. 
 
 
 ## What can you do
@@ -54,7 +76,9 @@ the block.
 - De-Google and set it as your goal.
 - Treasure and act upon as to what it truly meant for privacy and security, do not just talk.
 
-Use a side-loaded `Android` phone, such as `GrapheneOS`, who truly knows about privacy and security and who truly treasure those values unlike `Google` or other brands that only talk and pretended they protect your privacy while not taking privacy serious enough.
+Use a side-loaded `Android` phone, such as `GrapheneOS`, who truly knows about privacy
+and security and who truly treasure those values unlike `Google` or other brands that only
+talk and pretended they protect your privacy while not taking privacy serious enough.
 
 ### DO NOT
 
