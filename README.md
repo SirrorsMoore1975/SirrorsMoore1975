@@ -57,7 +57,7 @@ Contact me through:-
 1.  See how I did in CodeWars
     [ [Moore0724](https://www.codewars.com/users/Moore0724) ]
 
-        [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
+    [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
 
 ## Hobbies
 
@@ -105,7 +105,7 @@ so you never take this lightly.
 
 ### Keep Android open
 
-It has everything to do with you. No matter what you use daily. [...](./Documents/KEEPANDROIDOPEN/README.md)
+It has everything to do with you. No matter what you use daily. [[...](./Documents/KEEPANDROIDOPEN/README.md)]
 
 ### How To Install Postgres and run it on Linux
 
