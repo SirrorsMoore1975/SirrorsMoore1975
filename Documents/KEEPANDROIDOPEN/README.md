@@ -189,8 +189,22 @@ Here is a list of alternative you can use to withdraw yourself from Google ecosy
 - App Store: `F-Droid`, `Obtainium`, `Aurora` (Still kind of rely on Google Play);
 - Backend Service and Authentication: `Supabase`, `PocketBase`, `Back4App`;
 
+## If the App ask you to use Google Play Store
+
+Consider not to use them anymore because the developer would rather sacrifice your privacy
+and leaning toward big tech interest than your safety, or downgrade or not updating
+for the moment until a solution is rolled out. You can make a different by 
+provide feedback, join with the community, engage with those who has the same
+concern and care about privacy and secuirty, speak up, tell your friend and family.
+At the moment some apps developers sided with Google, believed the Google Play Store
+are the only safe place (which is not) to download their apps. Privacy is not a crime,
+Privacy is not nonsense, Privacy has not died. Privacy is the only layer left
+to protect your free thought, protect it at all costs.
+
 ## Reference
 
-[Keep Android Open Homepage](keepandroidopen.org)
+[Keep Android Open Homepage](https://keepandroidopen.org)
 
-[Keep Android Open Open Letter](keepandroidopen.org/openletter)
+[Keep Android Open Open Letter](https://keepandroidopen.org/openletter)
+
+
