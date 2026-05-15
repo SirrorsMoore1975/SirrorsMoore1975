@@ -205,6 +205,6 @@ to protect your free thought, protect it at all costs.
 
 [Keep Android Open Homepage](https://keepandroidopen.org)
 
-[Keep Android Open Open Letter](https://keepandroidopen.org/openletter)
+[Keep Android Open Open Letter](https://keepandroidopen.org/open-letter)
 
 
