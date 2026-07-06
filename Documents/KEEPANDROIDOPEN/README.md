@@ -58,14 +58,15 @@ privacy for their terms of security, is clearly not the way how free
 and open mean, and clearly not Android Open Sources Projects Original intention.
 
 <del>
-  `Termux`, a powerful Linux terminal emulator on Android used for many
-  projects for education purposes, was banned by Goggle due to their
-  `policy` concern. In order to use `Termux`, you can only use the
-  side-loading app store such as `F-Droid`, official `github` release,
-  or download the `apk` file to install it.
+`Termux`, a powerful Linux terminal emulator on Android used for many
+projects for education purposes, was banned by Goggle due to their
+`policy` concern. In order to use `Termux`, you can only use the
+side-loading app store such as `F-Droid`, official `github` release,
+or download the `apk` file to install it.
 </del>
 
-> [! Notice] Please note:
+> [!Notice] Please note:
+>
 > It is not true that `Termux` cannot be downloaded via Play Store.
 > A build experimental version of `Termux` existed on the Play Store.
 > The `Termux`'s `README.md` specific that the Play Store version is
