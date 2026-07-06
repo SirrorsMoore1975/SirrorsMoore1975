@@ -57,11 +57,30 @@ malicious third parties applications, but at the same time, stripping your
 privacy for their terms of security, is clearly not the way how free
 and open mean, and clearly not Android Open Sources Projects Original intention.
 
+<del>
 `Termux`, a powerful Linux terminal emulator on Android used for many
 projects for education purposes, was banned by Goggle due to their
 `policy` concern. In order to use `Termux`, you can only use the
 side-loading app store such as `F-Droid`, official `github` release,
 or download the `apk` file to install it.
+</del>
+
+> [!Notice] Please note:
+>
+> It is not true that `Termux` cannot be downloaded via Play Store.
+> A build experimental version of `Termux` existed on the Play Store.
+> The `Termux`'s `README.md` specific that the Play Store version is
+> experimental, which could come with bugs and missing functionality
+> compared to the version found in `F-Droid` or `GitHub`. The team also
+> specify that `Google Play` will attempted to upgrade the installed
+> `Termux` which could cause errors and fail to install or causing
+> running issues. The Play Store version is [termux-play-store](https://github.com/termux-play-store/),
+> which is not the same as the one provided in [termux-app](https://github.com/termux/termux-app).
+> However, the strict policy and requirement on Google are still true
+> where `termux-play-store` is a strip down version which has limited
+> functionality and restricted permission modification. The Play Store
+> version existed for devices which cannot install outside the Store.
+> Advice not to upgrade the app from Play Store. See details in [Experimental Branch](https://github.com/termux/termux-app#google-play-store-experimental-branch)
 
 `Aurora` store and `Obtainium` will also be affected. `NewPipe`
 has already announced at an update that their application will
@@ -193,7 +212,7 @@ Here is a list of alternative you can use to withdraw yourself from Google ecosy
 
 Consider not to use them anymore because the developer would rather sacrifice your privacy
 and leaning toward big tech interest than your safety, or downgrade or not updating
-for the moment until a solution is rolled out. You can make a different by 
+for the moment until a solution is rolled out. You can make a different by
 provide feedback, join with the community, engage with those who has the same
 concern and care about privacy and secuirty, speak up, tell your friend and family.
 At the moment some apps developers sided with Google, believed the Google Play Store
@@ -206,5 +225,3 @@ to protect your free thought, protect it at all costs.
 [Keep Android Open Homepage](https://keepandroidopen.org)
 
 [Keep Android Open Open Letter](https://keepandroidopen.org/open-letter)
-
-
