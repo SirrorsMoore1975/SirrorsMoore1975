@@ -39,6 +39,10 @@ I am **Chadwick**. I'm a **Fullstack Software Engineer**
 
    A Web app to trades first or second hand computer parts between users
 
+1. Project [[SM1975-my-analog-clock](https://github.com/SirrorsMoore1975/sm1975-my-analog-clock)]:
+
+   Analog Clock which follow mouse project for personal self educational purpose
+
 ## Self Learning Exercise
 
 1. Project [[Python_Exercise_Basic_Conditions](https://github.com/SirrorsMoore1975/SM1975-python-exercise-basic-conditions)]:
@@ -49,15 +53,15 @@ I am **Chadwick**. I'm a **Fullstack Software Engineer**
 
 Contact me through:-
 
-1.  Create a general [[Issues](https://github.com/SirrorsMoore1975/SirrorsMoore1975/issues)]
-1.  Create a general [[Discussions](https://github.com/SirrorsMoore1975/SirrorsMoore1975/discussions/new?category=general)]
-1.  See my LinkedIn
-    [<a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank">
-    Profile </a>]
-1.  See how I did in CodeWars
-    [ [Moore0724](https://www.codewars.com/users/Moore0724) ]
+1. Create a general [[Issues](https://github.com/SirrorsMoore1975/SirrorsMoore1975/issues)]
+1. Create a general [[Discussions](https://github.com/SirrorsMoore1975/SirrorsMoore1975/discussions/new?category=general)]
+1. See my LinkedIn
+   [<a href="https://www.linkedin.com/in/chadwick-a-75566599/" target="_blank">
+   Profile </a>]
+1. See how I did in CodeWars
+   [ [Moore0724](https://www.codewars.com/users/Moore0724) ]
 
-    [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
+   [![CODEWARS](https://www.codewars.com/users/Moore0724/badges/large)](https://www.codewars.com/users/Moore0724)
 
 ## Hobbies
 
