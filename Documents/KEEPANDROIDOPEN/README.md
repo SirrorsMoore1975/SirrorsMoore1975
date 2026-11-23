@@ -41,6 +41,10 @@ Some app developers do intentionally blocked `GrapheneOS` from using their apps 
 
 The claim has follow the recent `Google` activity to lock down `Android` to `Google`'s own ecosystem, however, no official channel can confirm nor could deny any such claim. Despite those non-confirm-able claim, `GrapheneOS` remain the go-to `deGoogle` phone that anyone who is serious about removing `Google` from daily use to use.   
 
+##### The case for other `deGoogle` brands 
+
+`GrapheneOS` remain the biggest vocal voice on `Google`'s pushing their ecosystem, others such as `LineageOS`, `CalyxOS`, `/e/OS`, etc, has also actively call out for `alternative` Play Integrity and break the lock-in of the `Google`'s API system. The `Keep Android Open` movement has already received 70+ organizations support and 100,000+ signatures against `Google` tighten the use of their ecosystem and closing the `AOSP` for being open. 
+
 ## Why is the move striping down freedom
 
 ### The situation
