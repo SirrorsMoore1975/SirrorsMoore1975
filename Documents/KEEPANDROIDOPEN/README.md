@@ -35,7 +35,7 @@ are not meet. Apps such as `F-Droid` are still affected by the decision.
 
 ##### The case for `GrapheneOS` 
 
-Up till the current date, date-of-PR, although there are no other official channel confirming `GrapheneOS` claim, `GrapheneOS` on `X(Twitter)` and `Mastodon` has accused `Google` might have been pressuring `OEM`s manufactures to `stop supporting OEM unlock` and `pushing hard on the Play API Integrity` for locking out `GrapheneOS` to apps that does not use `Google`'s or any `Non-GMS-licensed systems`. 
+Up till the current date, November 2026, although there are no other official channel confirming `GrapheneOS` claim, `GrapheneOS` on [`X(Twitter)`](https://x.com/GrapheneOS/status/2123516752458141872?ref=itsfoss.com) and `Mastodon` has accused `Google` might have been pressuring `OEM`s manufactures to `stop supporting OEM unlock` and `pushing hard on the Play API Integrity` for locking out `GrapheneOS` to apps that does not use `Google`'s or any `Non-GMS-licensed systems`. 
 
 Some app developers do intentionally blocked `GrapheneOS` from using their apps for security check, mostly with no official reason provided by the developers at all, such as: `Volkswagen` where their car cannot be unlocked unless user uses an `unmodified` Android phones, even if your phones is only at `Android 10` it can still be `sufficient` to unlock the car. `Revolut` actively banning financial payment via `GrapheneOS` devices. `IO` an official Italy digital wallet blocking `GrapheneOS`. 
 
