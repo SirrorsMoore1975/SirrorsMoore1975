@@ -35,15 +35,36 @@ are not meet. Apps such as `F-Droid` are still affected by the decision.
 
 ##### The case for `GrapheneOS` 
 
-Up till the current date, November 2026, although there are no other official channel confirming `GrapheneOS` claim, `GrapheneOS` on [`X(Twitter)`](https://x.com/GrapheneOS/status/2123516752458141872?ref=itsfoss.com) and `Mastodon` has accused `Google` might have been pressuring `OEM`s manufactures to `stop supporting OEM unlock` and `pushing hard on the Play API Integrity` for locking out `GrapheneOS` to apps that does not use `Google`'s or any `Non-GMS-licensed systems`. 
+Up till the current date, November 2026, although there are no other official 
+channel confirming `GrapheneOS` claim, `GrapheneOS` on 
+[`X(Twitter)`](https://x.com/GrapheneOS/status/2123516752458141872?ref=itsfoss.com) 
+and `Mastodon` has accused `Google` might have been pressuring `OEM`s manufactures 
+to `stop supporting OEM unlock` and `pushing hard on the Play API Integrity` 
+for locking out `GrapheneOS` to apps that does not use `Google`'s or any 
+`Non-GMS-licensed systems`. 
 
-Some app developers do intentionally blocked `GrapheneOS` from using their apps for security check, mostly with no official reason provided by the developers at all, such as: `Volkswagen` where their car cannot be unlocked unless user uses an `unmodified` Android phones, even if your phones is only at `Android 10` it can still be `sufficient` to unlock the car. `Revolut` actively banning financial payment via `GrapheneOS` devices. `IO` an official Italy digital wallet blocking `GrapheneOS`. 
+Some app developers do intentionally blocked `GrapheneOS` from using their 
+apps for security check, mostly with no official reason provided by the 
+developers at all, such as: `Volkswagen` where their car cannot be unlocked 
+unless user uses an `unmodified` Android phones, even if your phones is 
+only at `Android 10` it can still be `sufficient` to unlock the car. 
+`Revolut` actively banning financial payment via `GrapheneOS` devices. 
+`IO` an official Italy digital wallet blocking `GrapheneOS`. 
 
-The claim has follow the recent `Google` activity to lock down `Android` to `Google`'s own ecosystem, however, no official channel can confirm nor could deny any such claim. Despite those non-confirm-able claim, `GrapheneOS` remain the go-to `deGoogle` phone that anyone who is serious about removing `Google` from daily use to use.   
+The claim has follow the recent `Google` activity to lock down `Android` 
+to `Google`'s own ecosystem, however, no official channel can confirm 
+nor could deny any such claim. Despite those non-confirm-able claim, 
+`GrapheneOS` remain the go-to `deGoogle` phone that anyone who is serious 
+about removing `Google` from daily use to use.   
 
 ##### The case for other `deGoogle` brands 
 
-`GrapheneOS` remain the biggest vocal voice on `Google`'s pushing their ecosystem, others such as `LineageOS`, `CalyxOS`, `/e/OS`, etc, has also actively call out for `alternative` Play Integrity and break the lock-in of the `Google`'s API system. The `Keep Android Open` movement has already received 70+ organizations support and 100,000+ signatures against `Google` tighten the use of their ecosystem and closing the `AOSP` for being open. 
+`GrapheneOS` remain the biggest vocal voice on `Google`'s pushing their 
+ecosystem, others such as `LineageOS`, `CalyxOS`, `/e/OS`, etc, has also 
+actively call out for `alternative` Play Integrity and break the lock-in 
+of the `Google`'s API system. The `Keep Android Open` movement has already 
+received 70+ organizations support and 100,000+ signatures against `Google` 
+tighten the use of their ecosystem and closing the `AOSP` for being open. 
 
 ## Why is the move striping down freedom
 
