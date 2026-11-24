@@ -37,7 +37,7 @@ are not meet. Apps such as `F-Droid` are still affected by the decision.
 
 Up till the current date, November 2026, although there are no other official 
 channel confirming `GrapheneOS` claim, `GrapheneOS` on 
-[`X(Twitter)`](https://x.com/GrapheneOS/status/2123516752458141872?ref=itsfoss.com) 
+[`X(Twitter)`](https://x.com/GrapheneOS/status/2123516752458141872) 
 and `Mastodon` has accused `Google` might have been pressuring `OEM`s manufactures 
 to `stop supporting OEM unlock` and `pushing hard on the Play API Integrity` 
 for locking out `GrapheneOS` to apps that does not use `Google`'s or any 
