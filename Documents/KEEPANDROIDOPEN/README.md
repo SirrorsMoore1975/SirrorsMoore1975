@@ -92,7 +92,7 @@ applications, emulators, customized ROM will become harder but not impossible.
 Their protecting user policy claim to be protecting you from the
 malicious third parties applications, but at the same time, stripping your
 privacy for their terms of security, is clearly not the way how free
-and open mean, and clearly not Android Open Sources Projects Original intention.
+and open mean, and clearly not Android Open Sources Projects original intention.
 
 <del>
 `Termux`, a powerful Linux terminal emulator on Android used for many
@@ -175,9 +175,9 @@ phone become part of our life, such as shopping, finance, banking, verification
 data, ordering foods, etc.. The phone you carry around will have tons of your
 informations. Whether you truly own your phone become essential.
 
-`ASOP` is aimed for openness, so that everyone can see and say and even contributes
+`AOSP` is aimed for openness, so that everyone can see and say and even contributes
 to the code. Many well known brands built their system using `AOSP`, such as
-Samsung's `One UI`, Amazon `Fire OS`, One Plus' `OxygenOS`. The tools that build `ASOP`
+Samsung's `One UI`, Amazon `Fire OS`, One Plus' `OxygenOS`. The tools that build `AOSP`
 are mainly on Linux and via `Git`. It relied heavily with the Linux Kernel for
 building their projects. This also provided privacy and security when the code do
 indeed breached privacy or has security vulnerability, it can be ratified ASAP by
@@ -215,7 +215,7 @@ lock-down when that day hit, until you activate the one-timed 24 hours options a
 developer mode. `Google` claim that they are not taking away side-loading freedom,
 but you decide if this is true.
 
-`ASOP` is implemented by Google, originally aim is to compete `Apple`. When `Google` decided
+`AOSP` is implemented by Google, originally aim is to compete `Apple`. When `Google` decided
 to add **hidden**, **required**, **mandatory** (i.e. **proprietary**) apps that is
 essential for it to be called `Android`, `Android` should be spelled `A-p-p-l-e`.
 Google decision is destroying the open source ecosystem. Not every developers has wide
@@ -251,7 +251,7 @@ Consider not to use them anymore because the developer would rather sacrifice yo
 and leaning toward big tech interest than your safety, or downgrade or not updating
 for the moment until a solution is rolled out. You can make a different by
 provide feedback, join with the community, engage with those who has the same
-concern and care about privacy and secuirty, speak up, tell your friend and family.
+concern and care about privacy and security, speak up, tell your friend and family.
 At the moment some apps developers sided with Google, believed the Google Play Store
 are the only safe place (which is not) to download their apps. Privacy is not a crime,
 Privacy is not nonsense, Privacy has not died. Privacy is the only layer left
